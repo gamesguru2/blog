@@ -1,0 +1,56 @@
+why you should encrypt
+- truly protect your data
+- your cookies and other passwords
+- your banking information
+- anything you save
+- jailbait
+- illegal programs
+- the list goes on
+
+
+
+Hello all.  i'm re-installing Linux today, and documenting the process a bit
+welcome.  Ok, so we’re cheating here a bit as we’re starting from Linux
+But later I’ll also show how it’s possible to install a USB from mac or windows as well
+
+So in addition to setting up Linux we’ll be setting up a few useful perks
+Probably the main one i’m recommending is the LUKS “encryption”
+Disk encryption protects your data.  Only share your key with people you trust
+You can see I have an encrypted drive here.  A bit different since it’s external, but same idea
+
+What I’m recommending you have for this video is..
+either a laptop or a system you’re ready to reinstall on
+Or a desktop with multiple hard drives.  You can experiment and keep your old OS
+
+so dont rush into installing it on all your devices
+but do poke around, experiment, see if you can get cool stuff working
+see if you can get your 5.1 surround sound driver working
+see if your video card is supported or your favorite video games
+Linux is a great environment, can be a real paradigm changer for the uninitiated
+
+---------------------------
+Some of the other things we’ll touch on:
+
+- the terminal and "synaptic" package manager
+- apt and the basics of installing and updating Ubuntu/debian
+- backing up and re-installing
+- hosting a network drive
+- adding users/groups, customizing things and convenience factors
+- dual and triple booting
+- INSTALLING onto a USB stick (a full OS, not an installation or preview)
+- recovery mode (fixing bricked systems)
+- encrypting media or external drives
+- remote decryption with Dropbear
+- logging in remotely.  to "headless" units
+- audio and video drivers
+- installing fortnite  <https://www.youtube.com/watch?v=pBdvza_u2Aw>
+---------------------------
+
+Obviously won’t have time to show you all these things
+But just want to show that they can be done
+
+So for the installation there's really nothing special about it
+The one thing, the golden rule I recommend is: taking all other hard drives out
+everything but the main drive.  any OSes or media drives? out!
+infected ransomware? out!
+
