@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-03-16 16:37" -->
+	<!-- generator="WordPress/5.3.2" created="2020-03-16 20:46" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>MODERN TRENDS</title>
 	<link>https://alephdog.heliohost.org/blog</link>
 	<description></description>
-	<pubDate>Mon, 16 Mar 2020 16:37:13 +0000</pubDate>
+	<pubDate>Mon, 16 Mar 2020 20:46:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://alephdog.heliohost.org/blog</wp:base_site_url>
@@ -234,23 +234,31 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>Status in the USA</h2>
+<h2>Status in the USA and Elsewhere</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>At the time of writing this (2020-03-16) there are probably around 60,000 active cases in America, with two or three times that amount likely to emerge over the coming weeks.</p>
+<p>At the time of writing this (2020-03-16) there are probably around 100,000 active cases in America, with two or three times that amount likely to emerge over the coming weeks.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The risk to the general public will become greater over the following weeks, and if no government restrictions are put in place the hospitals may be overwhelmed by May or June.  If distancing measures are taken, the disease may be dragged out for several years and the economic and social implications of this are only barely coming to light.</p>
+<p>The risk to the general public will become greater in the coming weeks, and states will need to close shops, bars, gyms, and put stricter restrictions in place to prevent the hospitals from being overwhelmed in the Summer.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Despite the delayed response of the USA to the coronavirus threat, officials are now taking matters more seriously with more decisive actions.</p>
+<p>If distancing measures are taken, the disease may be dragged out for several years.  The resulting economic and social fallout is a subject of controversy.  In China the measures being taken are so extreme, they may <em>stop</em> COVID-19.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The UK remains lackadaisical in their approach, while Canada and the US struggle to keep each other in check, but not to the same degree as China, Korea, Taiwan, Singapore, or Australia (which are being more aggressive).</p>
+<p>Despite the <a href="https://www.washingtonpost.com/politics/trump-coronavirus-response-squandered-time/2020/03/07/5c47d3d0-5fcb-11ea-9055-5fa12981bbbf_story.html">delayed response of the USA to the coronavirus threat</a>, officials are now taking matters more seriously with more decisive actions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.independent.co.uk/news/health/coronavirus-schools-uk-colleges-closed-shut-a9404776.html">The UK remains lackadaisical</a> in their approach, while Canada, continental Europe, and the US keep each other in check, but less tightly than China, Korea, Taiwan, Singapore, or Australia (which are being more proactive).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is not clear how "herd immunity" would apply here, in the UK's terms.  The virus is clearly dangerous and ahead of the curve; we should not preclude the containment strategy, which seems to work well in China.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -258,19 +266,35 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A vaccine could be up to a decade away.  Other less pestilent coronaviruses which cause variants of the common cold have eluded vaccination, and the virus (for one with a proofreader mechanism) seems to be evolving rapidly.  Currently there are 519 unique variants, with two major strains.</p>
+<p>A vaccine could be <a href="https://www.latimes.com/science/story/2020-03-12/why-does-it-take-so-long-to-make-a-coronavirus-vaccine">up to a decade away.</a>  Other less pestilent coronaviruses which cause variants of the common cold have eluded vaccination, and the virus is evolving rapidly (for one with a proofreader mechanism).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Currently there are 519 unique variants, with <a href="https://www.cnbc.com/2020/03/04/coronavirus-chinese-scientists-identify-two-types-covid-19.html">two major strains</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21,"width":598,"height":332,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-GISAID-Next-hCoV-19-App-1024x569.png" alt="" class="wp-image-21" width="598" height="332"/><figcaption>Evolution of the novel coronavirus: <a href="https://www.gisaid.org/epiflu-applications/next-hcov-19-app/">https://www.gisaid.org/epiflu-applications/next-hcov-19-app/</a></figcaption></figure>
 <!-- /wp:image -->
 
+<!-- wp:heading {"level":4} -->
+<h4>medicines and vitamins</h4>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
-<p>Treatments are already being investigated.  An anti-arthritic drug may alleviate lung inflammation in severe cases, and the Folding@Home project has helped to identify over 20 more drug candidates.</p>
+<p>Treatments are already being investigated.  An <a href="https://www.leggo.it/italia/cronache/coronavirus_farmaco_anti_artrite_pazienti_curati_napoli_oggi_8_marzo_2020-5099254.html">anti-arthritic drug may alleviate the deadly lung inflammation</a> in severe cases.  Additionally, the <a href="https://foldingathome.org/2020/03/10/covid19-update/">Folding@Home project identified over 20 more drug candidates</a>.  It is not clear these would be ready before the vaccine, but potentially.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It is not clear how "herd immunity" would apply here.  The virus is clearly dangerous and has the potential to stay ahead of the curve; we should not preclude the containment strategy which seems to work well in China.</p>
+<p>As for dietary choices and supplements, it is important to note "boosting" the immune system is not the only goal.  Some illnesses attack the young and healthy and use your immune system against you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The primary recommendations have been an adequate amount of Zinc, Vitamin C and D, omega 3s (plant-based ALA is fine), garlic, and mushrooms (including common white button, Crimini, Almond, and wild).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mushrooms in particular have studies shown to modulate over-reactive immune systems, blocking auto-immune disease, and the exact kind of <a href="https://www.nationalgeographic.com/science/2020/02/here-is-what-coronavirus-does-to-the-body/">"cytokine storm" seen in the lungs</a> of COVID-19 patients.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -310,7 +334,11 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As the virus evolves, it is possible new dominant strains will take seed and cause greater disruptions.  In the 1918 outbreak, it seemed to come in three waves with the second being the deadliest and immunity from the first wave seeming to protect individuals against the second.</p>
+<p>As the virus evolves, it is possible new dominant strains will take seed and cause greater disruptions.  In the 1918 outbreak, it seemed to come in three waves with the second being the deadliest and immunity from the first wave seeming to protect individuals against the second and third.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We have already seen the potential supply chain disruptions that short-term panic can cause, even when supply is at normal capacity.  The panic from a more deadly form that targets younger people could be worse.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":41,"width":432,"height":221,"sizeSlug":"large"} -->
@@ -326,12 +354,24 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Australia has ordered students to remain in school but to stay 1 meter apart from one another.  It is not clear how practical this is, but it may be better than the daycare alternative.  The school would also need to be cleansed with bleach fairly regularly, and students would need to be extra cautious.</p>
+<p><a href="https://www.dailytelegraph.com.au/lifestyle/health/coronavirus-australia-schools-across-the-country-to-stay-open-pm-scott-morrison-says/news-story/87fa3b42a8b0a91fe41bf8bcb41069ea">Australia has ordered students to remain in school</a> but to stay 1 meter apart from one another.  It is not clear how practical this is, but it may be better than the daycare alternative.  The school would also need to be cleansed with bleach fairly regularly, and students would need to be extra cautious.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":44,"width":595,"height":373,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/chart_comparing_philly_and_st_louis-1024x643.jpg" alt="" class="wp-image-44" width="595" height="373"/><figcaption>St. Louis closed schools and cancelled parades, Philadelphia did not.</figcaption></figure>
 <!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2>"Social Distancing"</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Social distancing keeps old people safe.  When adopted mildly, it slows the spread of disease but when taken to to the extreme, it can actually <strong>stop</strong> it in its tracks and leave only 5-20% of people to become infected.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can see the different "regimes" here, with nice animations to get the point across: <a href="https://www.washingtonpost.com/graphics/2020/world/corona-simulator/">https://www.washingtonpost.com/graphics/2020/world/corona-simulator/</a></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:heading -->
 <h2>Difficulties and What to Expect</h2>
@@ -342,11 +382,11 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>School closings, slowdowns and closures at the border, as well as store closures will have far-reaching consequences on the economy and supply chain.  While we don't expect any terrible shortages or famines, we may find ourselves with less of (or completely without) some products and technologies which depend on global trade</p>
+<p>School closings, slowdowns and closures at the border, as well as store closures will have far-reaching consequences on the economy and supply chain.  While we don't expect any terrible shortages or famines, we may find ourselves with less of (or completely without) some products and technologies which depend on global trade.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Based on the bond markets we were already heading for a slight recession, but the pandemic is likely to bring it on sooner and harder.  Starting the economy back up may be a months- or years-long process as well.</p>
+<p>Based on the bond markets <a href="https://schiffgold.com/peters-podcast/peter-schiff-bond-buyers-are-right-about-a-recession-but-theyre-making-the-wrong-bet/">we were already heading for a slight recession</a>, but the pandemic is likely to bring it on sooner and harder.  <a href="https://www.nytimes.com/2020/03/12/business/china-coronavirus-economy.html">Starting the economy back up</a> may be a months- or years-long process as well.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -358,7 +398,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The coronavirus has been observed to be contagious at a distance of up to 3m or 16 feet.  While it has trouble surviving on rough materials (fabrics, wood) as well as copper, it can survive up to 9 days on plastics and steel.  It does best indoors (22–25°C, humidity 40–50%), and has troubles at higher temperatures and humidity (e.g., 38°C, humidity >95%). </p>
+<p>The coronavirus has been observed to be <a href="https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay">contagious at a distance of up to 4.5 m or 16 feet</a>.  While it has trouble surviving on rough materials (fabrics, wood) as well as copper, it can survive up to 9 days on plastics and steel.  It <a href="https://www.hindawi.com/journals/av/2011/734690/">does best indoors</a> (22–25°C, humidity 40–50%), and has troubles at higher temperatures and humidity (e.g., 38°C, humidity >95%). </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -370,15 +410,27 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The virus attaches to a receptor found in other areas of the body, including the kidneys, testes, and brain.  Effects here are atypical, but a few cases of encephalopathy and kidney failure have already been reported.</p>
+<p>The virus attaches to a receptor found in other areas of the body, including the <a href="https://www.medrxiv.org/content/10.1101/2020.02.12.20022418v1">kidneys, testes</a>, and <a href="http://www.xinhuanet.com/english/2020-03/05/c_138846529.htm">brain</a>.  Effects here are atypical, but a few cases of encephalopathy and kidney failure have already been reported.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
 <h2>False Claims (Fact checks)</h2>
 <!-- /wp:heading -->
 
+<!-- wp:heading {"level":4} -->
+<h4>Ohio Governor stirs panic by claiming 100,000 cases in Ohio</h4>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
-<p>Ohio Governor claims 100,000 cases in Ohio based on the "community spread means 1% are infected" assumption.  John Hopkins Professor estimates 50,000 nation-wide as of early March 2020.  While I sympathize with the governor's desire to cause concern and preparedness in the public, the data simply do not support his claim. We would expect hundreds or thousands of suspicious pneumonia-related deaths in Ohio alone if this were true.  The US is a few (precious) weeks behind Italy, whose official tally of 25,000 infections is probably a slight under-estimate, and which represents a smaller population base than the 320 million in the US.</p>
+<p>This based on the assumption that "community spread means 1% are infected".  John Hopkins Professor <a href="https://www.youtube.com/watch?v=A_xjLV886A4">estimates 50,000 - 500,000 nation-wide</a> as of early March 2020.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While I sympathize with the governor's desire to cause concern and preparedness in the public, the data simply do not support his claim. We would expect hundreds or thousands of suspicious pneumonia-related deaths in Ohio alone if this were true.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <a href="https://wgntv.com/news/coronavirus/us-surgeon-general-us-cases-are-where-italy-was-2-weeks-ago/">US is a few (precious) weeks behind Italy</a>, whose official tally of 25,000 infections is probably a slight under-estimate, and which represents a smaller population base than the 320 million in the US.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -386,7 +438,23 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>Trump claims the virus has been contained:</p>
+<p>NYC has only 3,000 ICU beds so if even 0.5% of the population was affected, the hospitals would be feeling incredible strain.  They aren't.  Yet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Community spread <em>is</em> occurring in NYC, and the Ohio Governor is mistaken.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":61,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-r-Coronavirus.png" alt="" class="wp-image-61"/><figcaption>Estimates range from 10-20% of cases being severe, and potentially requiring hospitalization.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Trump falsely claims the virus has been contained</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This needs no explanation.  It is now March 2020, the original 15 have ballooned to thousands of cases.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -397,8 +465,12 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>It's <em>going</em> to <em>disappear</em>. One day it's <em>like a miracle</em>, it will <em>disappear</em>.</p><cite>Trump, at the White House, late Feb 2020</cite></blockquote>
 <!-- /wp:quote -->
 
+<!-- wp:heading {"level":4} -->
+<h4>Trump claims unprecedented efforts "closed" the virus down</h4>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
-<p>Trump claims unprecedented efforts "closed" the virus down. But there was no airport screening prior to March 10, nothing drastic was done to secure borders, shops are still open.  The virus continues its march across America.</p>
+<p>But there was <a href="https://www.theverge.com/2020/3/15/21180331/coronavirus-screening-airports-dfw-ohare">no airport screening prior to March 10</a>, nothing drastic was done to secure borders, shops are still open.  The virus continues its march across America.  Evidence of "unprecedented action" is only being seen since the week of Marth 9th, and then only at the state level.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -439,7 +511,21 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[kyles-a-goy]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Monica Jahnke]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[mjmuschie@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[75.133.19.41]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-03-16 18:56:49]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-03-16 18:56:49]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Very interesting]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Screenshot_2020-03-16 GISAID - Next hCoV-19 App</title>
 		<link>https://alephdog.heliohost.org/blog/screenshot_2020-03-16-gisaid-next-hcov-19-app/</link>
@@ -624,6 +710,37 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:472;s:6:"height";i:241;s:4:"file";s:48:"2020/03/Screenshot_2020-03-16-2002-03173-pdf.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:48:"Screenshot_2020-03-16-2002-03173-pdf-300x153.png";s:5:"width";i:300;s:6:"height";i:153;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"Screenshot_2020-03-16-2002-03173-pdf-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Screenshot_2020-03-16 r Coronavirus</title>
+		<link>https://alephdog.heliohost.org/blog/screenshot_2020-03-16-r-coronavirus/</link>
+		<pubDate>Mon, 16 Mar 2020 19:12:01 +0000</pubDate>
+		<dc:creator><![CDATA[alephdog]]></dc:creator>
+		<guid isPermaLink="false">https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-r-Coronavirus.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Estimates range from 10-20% of cases being severe, and potentially requiring hospitalization.]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2020-03-16 19:12:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-03-16 19:12:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[screenshot_2020-03-16-r-coronavirus]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-r-Coronavirus.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/03/Screenshot_2020-03-16-r-Coronavirus.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:405;s:4:"file";s:47:"2020/03/Screenshot_2020-03-16-r-Coronavirus.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:47:"Screenshot_2020-03-16-r-Coronavirus-259x300.png";s:5:"width";i:259;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"Screenshot_2020-03-16-r-Coronavirus-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
