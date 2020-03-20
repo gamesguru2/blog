@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2020-03-17 12:58"-->
+<!-- generator="WordPress.com" created="2020-03-20 13:40"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,17 +27,21 @@
 
 <channel>
 	<title>Modern Trends</title>
-	<link>https://alephdog209327384.wordpress.com</link>
+	<link>https://alephscoil.wordpress.com</link>
 	<description></description>
-	<pubDate>Tue, 17 Mar 2020 12:58:15 +0000</pubDate>
+	<pubDate>Fri, 20 Mar 2020 13:40:54 +0000</pubDate>
 	<language></language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
-	<wp:base_blog_url>https://alephdog209327384.wordpress.com</wp:base_blog_url>
+	<wp:base_blog_url>https://alephscoil.wordpress.com</wp:base_blog_url>
 
 	<wp:author><wp:author_id>98748863</wp:author_id><wp:author_login><![CDATA[nhldatascience]]></wp:author_login><wp:author_email><![CDATA[mathmuncher11@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[dasheenster]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category><wp:term_id>1772</wp:term_id><wp:category_nicename>biology</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Biology]]></wp:cat_name>
+</wp:category>
+	<wp:category><wp:term_id>184</wp:term_id><wp:category_nicename>environment</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Environment]]></wp:cat_name>
+</wp:category>
+	<wp:category><wp:term_id>1677</wp:term_id><wp:category_nicename>nutrition</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Nutrition]]></wp:cat_name>
 </wp:category>
 	<wp:category><wp:term_id>1584</wp:term_id><wp:category_nicename>politics</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Politics]]></wp:cat_name>
 </wp:category>
@@ -49,18 +53,15 @@
 </wp:term>
 
 	<generator>http://wordpress.com/</generator>
-
 <image>
-	<url>https://alephdog209327384.files.wordpress.com/2020/03/cropped-unnamed.jpg?w=32</url>
-	<title>Modern Trends</title>
-	<link>https://alephdog209327384.wordpress.com</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	
+		<url>http://s0.wp.com/i/buttonw-com.png</url>
+		<title>Modern Trends</title>
+		<link>https://alephscoil.wordpress.com</link>
+	</image>
+		
 	<item>
 		<title>Hello world!</title>
-		<link>https://alephdog209327384.wordpress.com/?p=1</link>
+		<link>https://alephscoil.wordpress.com/?p=1</link>
 		<pubDate>Sat, 07 Mar 2020 17:04:29 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephdog.heliohost.org/blog/?p=1</guid>
@@ -125,10 +126,10 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title>Home</title>
-		<link>https://alephdog209327384.wordpress.com/blog__trashed/</link>
+		<link>https://alephscoil.wordpress.com/blog__trashed/</link>
 		<pubDate>Mon, 16 Mar 2020 20:19:12 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?page_id=5</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?page_id=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https:\/\/iamtakashinuxtest20200131105336.files.wordpress.com\/2020\/01\/qi-bin-w4hbafegiac-unsplash.jpg","id":26,"dimRatio":10,"align":"full"} -->
 <div class="wp-block-cover alignfull has-background-dim-10 has-background-dim" style="background-image:url('https://iamtakashinuxtest20200131105336.files.wordpress.com/2020/01/qi-bin-w4hbafegiac-unsplash.jpg');"><div class="wp-block-cover__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":8,"column1DesktopOffset":2,"column1TabletSpan":8,"column1MobileSpan":4,"column2DesktopOffset":4,"className":"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} -->
@@ -220,11 +221,11 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>All about life in 21st century society</title>
-		<link>https://alephdog209327384.wordpress.com/</link>
+		<title>in 21st century society</title>
+		<link>https://alephscoil.wordpress.com/</link>
 		<pubDate>Mon, 16 Mar 2020 20:19:11 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?page_id=6</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?page_id=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https:\/\/iamtakashinuxtest20200131105336.files.wordpress.com\/2020\/01\/qi-bin-w4hbafegiac-unsplash.jpg","id":26,"dimRatio":10,"align":"full"} -->
 <div class="wp-block-cover alignfull has-background-dim-10 has-background-dim" style="background-image:url('https://iamtakashinuxtest20200131105336.files.wordpress.com/2020/01/qi-bin-w4hbafegiac-unsplash.jpg');"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title\u2026","fontSize":"large"} -->
@@ -289,10 +290,10 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>https://alephdog209327384.wordpress.com/contact__trashed/</link>
+		<link>https://alephscoil.wordpress.com/contact__trashed/</link>
 		<pubDate>Mon, 16 Mar 2020 20:19:10 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?page_id=7</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"align":"left"} -->
 <p class="has-text-align-left">Don't hesitate to reach out with the contact information below, or send a message using the form.</p>
@@ -407,10 +408,10 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title>About</title>
-		<link>https://alephdog209327384.wordpress.com/about__trashed/</link>
+		<link>https://alephscoil.wordpress.com/about__trashed/</link>
 		<pubDate>Mon, 16 Mar 2020 20:19:09 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?page_id=8</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?page_id=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:spacer {"height":20} -->
 <div style="height:20px;" aria-hidden="true" class="wp-block-spacer"></div>
@@ -483,188 +484,10 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title>Introduce Yourself (Example Post)</title>
-		<link>https://alephdog209327384.wordpress.com/?p=9</link>
-		<pubDate>Mon, 16 Mar 2020 20:19:08 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?p=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><em>This is an example post, originally published as part of </em><a href="https://dailypost.wordpress.com/blogging-university/"><em>Blogging University</em></a><em>. Enroll in one of our ten programs, and start your blog right.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the “New Post” button, and tell us why you’re here.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Why do this? </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Because it gives new readers context. What are you about? Why should they read your blog?</li><li>Because it will help you focus you own ideas about your blog and what you’d like to do with it. </li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>The post can be short or long, a personal intro to your life or a bloggy mission statement, a manifesto for the future or a simple outline of your the types of things you hope to publish.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To help you get started, here are a few questions: </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Why are you blogging publicly, rather than keeping a personal journal?</li><li>What topics do you think you’ll write about?</li><li>Who would you love to connect with via your blog?</li><li>If you blog successfully throughout the next year, what would you hope to have accomplished? </li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>You’re not locked into any of this; one of the wonderful things about blogs is how they constantly evolve as we learn, grow, and interact with one another — but it’s good to know where and why you started, and articulating your goals may just give you a few other post ideas.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Can’t think how to get started? Just write the first thing that pops into your head. Anne Lamott, author of a book on writing we love, says that you need to give yourself permission to write a “crappy first draft”. Anne makes a great point — just start writing, and worry about editing it later.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>When you’re ready to publish, give your post three to five tags that describe your blog’s focus — writing, photography, fiction, parenting, food, cars, movies, sports, whatever. These tags will help others who care about your topics find you in the Reader. Make sure one of the tags is “zerotohero,” so other new bloggers can find you, too.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date>2020-03-16 20:19:08</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:19:08</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>example-post-3__trashed</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>sharing_disabled</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>switch_like_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_starter_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1584390431]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[example-post-3]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Introduce Yourself (Example Post)</title>
-		<link>https://alephdog209327384.wordpress.com/?p=10</link>
-		<pubDate>Mon, 16 Mar 2020 20:19:07 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?p=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><em>This is an example post, originally published as part of </em><a href="https://dailypost.wordpress.com/blogging-university/"><em>Blogging University</em></a><em>. Enroll in one of our ten programs, and start your blog right.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the “New Post” button, and tell us why you’re here.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Why do this? </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Because it gives new readers context. What are you about? Why should they read your blog?</li><li>Because it will help you focus you own ideas about your blog and what you’d like to do with it. </li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>The post can be short or long, a personal intro to your life or a bloggy mission statement, a manifesto for the future or a simple outline of your the types of things you hope to publish.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To help you get started, here are a few questions: </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Why are you blogging publicly, rather than keeping a personal journal?</li><li>What topics do you think you’ll write about?</li><li>Who would you love to connect with via your blog?</li><li>If you blog successfully throughout the next year, what would you hope to have accomplished? </li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>You’re not locked into any of this; one of the wonderful things about blogs is how they constantly evolve as we learn, grow, and interact with one another — but it’s good to know where and why you started, and articulating your goals may just give you a few other post ideas.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Can’t think how to get started? Just write the first thing that pops into your head. Anne Lamott, author of a book on writing we love, says that you need to give yourself permission to write a “crappy first draft”. Anne makes a great point — just start writing, and worry about editing it later.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>When you’re ready to publish, give your post three to five tags that describe your blog’s focus — writing, photography, fiction, parenting, food, cars, movies, sports, whatever. These tags will help others who care about your topics find you in the Reader. Make sure one of the tags is “zerotohero,” so other new bloggers can find you, too.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date>2020-03-16 20:19:07</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:19:07</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>example-post-2__trashed</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>sharing_disabled</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>switch_like_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_starter_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1584390434]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[example-post-2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Introduce Yourself (Example Post)</title>
-		<link>https://alephdog209327384.wordpress.com/?p=11</link>
+		<link>https://alephscoil.wordpress.com/?p=11</link>
 		<pubDate>Mon, 16 Mar 2020 20:19:06 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?p=11</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p><em>This is an example post, originally published as part of </em><a href="https://dailypost.wordpress.com/blogging-university/"><em>Blogging University</em></a><em>. Enroll in one of our ten programs, and start your blog right.</em></p>
@@ -750,22 +573,22 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title></title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/20/</link>
+		<link>https://alephscoil.wordpress.com/2020/03/16/22/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/20/</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/22/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
+		<wp:post_id>22</wp:post_id>
 		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
 		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>20</wp:post_name>
+		<wp:post_name>22</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -784,7 +607,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -808,11 +631,188 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Wordpress</title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/wordpress/</link>
+		<title>Twitter</title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/twitter/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/wordpress/</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/twitter/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>twitter</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Instagram</title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/instagram/</link>
+		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/instagram/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>instagram</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[https://instagram.com]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Pinterest</title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/pinterest/</link>
+		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/pinterest/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>pinterest</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[https://pinterest.com]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Wordpress</title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/wordpress/</link>
+		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/wordpress/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -868,7 +868,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title>Sample Page</title>
-		<link>https://alephdog209327384.wordpress.com/sample-page__trashed/</link>
+		<link>https://alephscoil.wordpress.com/sample-page__trashed/</link>
 		<pubDate>Sat, 07 Mar 2020 17:04:29 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephdog.heliohost.org/blog/?page_id=2</guid>
@@ -944,7 +944,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title>Privacy Policy</title>
-		<link>https://alephdog209327384.wordpress.com/?page_id=34</link>
+		<link>https://alephscoil.wordpress.com/?page_id=34</link>
 		<pubDate>Sat, 07 Mar 2020 17:04:29 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephdog.heliohost.org/blog/?page_id=3</guid>
@@ -986,7 +986,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 	</item>
 	<item>
 		<title>COVID-19: What we Know so Far</title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/07/covid-19-what-we-know-so-far/</link>
+		<link>https://alephscoil.wordpress.com/2020/03/07/covid-19-what-we-know-so-far/</link>
 		<pubDate>Sat, 07 Mar 2020 17:50:54 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephdog.heliohost.org/blog/?p=5</guid>
@@ -996,11 +996,11 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":46,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://alephdog209327384.files.wordpress.com/2020/03/f413a-screenshot_2020-03-16-2002-03173-pdf.png" alt="" class="wp-image-46" /><figcaption>Animal reservoirs and transmission chains.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://alephscoil.files.wordpress.com/2020/03/f413a-screenshot_2020-03-16-2002-03173-pdf.png" alt="" class="wp-image-46" /><figcaption>Animal reservoirs and transmission chains.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Early on Chinese authorities suppressed news of the infection, but in January this changed as the epicenter, Wuhan, was placed under lock down and many precautions were taken through the rest of China.</p>
+<p>Early on Chinese authorities suppressed news of the infection, but in January this changed as the epicenter, Wuhan, was placed under lock down and many precautions were taken through the rest of China.  A <a href="https://www.youtube.com/watch?v=YfsdJGj3-jM">Japanese YouTuber shows</a> what life is like 200 miles outside of Wuhan as of mid-March 2020.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1052,7 +1052,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21,"width":789,"height":438,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://alephdog209327384.files.wordpress.com/2020/03/f02fb-screenshot_2020-03-16-gisaid-next-hcov-19-app.png?w=1024&amp;h=569" alt="" class="wp-image-21" width="789" height="438" /><figcaption>Evolution of the novel coronavirus: <a href="https://www.gisaid.org/epiflu-applications/next-hcov-19-app/">https://www.gisaid.org/epiflu-applications/next-hcov-19-app/</a></figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://alephscoil.files.wordpress.com/2020/03/f02fb-screenshot_2020-03-16-gisaid-next-hcov-19-app.png?w=1024&amp;h=569" alt="" class="wp-image-21" width="789" height="438" /><figcaption>Evolution of the novel coronavirus: <a href="https://www.gisaid.org/epiflu-applications/next-hcov-19-app/">https://www.gisaid.org/epiflu-applications/next-hcov-19-app/</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -1088,7 +1088,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":28,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://alephdog209327384.files.wordpress.com/2020/03/4cf24-w_curve.png" alt="" class="wp-image-28" /><figcaption>The "W-curve" which shows how relatively few old people died during the pandemic.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://alephscoil.files.wordpress.com/2020/03/4cf24-w_curve.png" alt="" class="wp-image-28" /><figcaption>The "W-curve" which shows how relatively few old people died during the pandemic.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -1124,6 +1124,10 @@ https://www.reddit.com/r/Coronavirus/comments/fj1owh/over_half_of_the_coronaviru
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>Germany seems to have a particularly mild version of the illness, with nearly 10,000 cases but only two listed as in serious or ICU condition and "only" 20 deaths so far.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>As the virus evolves, it is possible new dominant strains will take seed and cause greater disruptions.  In the 1918 outbreak, it seemed to come in three waves with the second being the deadliest, and immunity from the first wave seeming to protect individuals against the second and third.</p>
 <!-- /wp:paragraph -->
 
@@ -1132,7 +1136,7 @@ https://www.reddit.com/r/Coronavirus/comments/fj1owh/over_half_of_the_coronaviru
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":41,"width":432,"height":221,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://alephdog209327384.files.wordpress.com/2020/03/66ee6-330px-1918_spanish_flu_waves.gif" alt="" class="wp-image-41" width="432" height="221" /><figcaption>Three "waves" of the 1918 flu.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://alephscoil.files.wordpress.com/2020/03/66ee6-330px-1918_spanish_flu_waves.gif" alt="" class="wp-image-41" width="432" height="221" /><figcaption>Three "waves" of the 1918 flu.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -1148,7 +1152,7 @@ https://www.reddit.com/r/Coronavirus/comments/fj1owh/over_half_of_the_coronaviru
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":44,"width":595,"height":373,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://alephdog209327384.files.wordpress.com/2020/03/3f76d-chart_comparing_philly_and_st_louis.jpg?w=1024&amp;h=643" alt="" class="wp-image-44" width="595" height="373" /><figcaption>St. Louis closed schools and cancelled parades, Philadelphia did not.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img src="https://alephscoil.files.wordpress.com/2020/03/3f76d-chart_comparing_philly_and_st_louis.jpg?w=1024&amp;h=643" alt="" class="wp-image-44" width="595" height="373" /><figcaption>St. Louis closed schools and cancelled parades, Philadelphia did not.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -1322,6 +1326,14 @@ https://twitter.com/CBSNews/status/1239579684788207618
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
+			<wp:meta_key>_oembed_time_ab1018a5252e0688a806561549aefbe2</wp:meta_key>
+			<wp:meta_value><![CDATA[1584539292]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_ab1018a5252e0688a806561549aefbe2</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Currently, some provinces are adjusting their emergency level downwards according to their risk-level evaluations. As of March 2, 7 provinces adjusted to second-level, 9 provinces to third-level, 4 provinces to just the within-province emergency level. <a href="https://t.co/btRMypgaC9">https://t.co/btRMypgaC9</a> 17/</p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1237020540549894144?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_publicize_job_id</wp:meta_key>
 			<wp:meta_value><![CDATA[41864886053]]></wp:meta_value>
 		</wp:postmeta>
@@ -1367,7 +1379,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_time_20ff5ce907d3c9127b0184f58b33bcf8</wp:meta_key>
-			<wp:meta_value><![CDATA[1584449793]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1584455231]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_f0b160ea1e46870b36e6eee6e4c33d70</wp:meta_key>
@@ -1375,7 +1387,23 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_time_f0b160ea1e46870b36e6eee6e4c33d70</wp:meta_key>
-			<wp:meta_value><![CDATA[1584449793]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1584455231]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_bfc67938b4445916a20be9e072b3b8e8</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-reddit">    <blockquote class="reddit-card" >      <a href="https://www.reddit.com/r/Coronavirus/comments/fj1owh/over_half_of_the_coronavirus_patients_in/?ref_source=embed&amp;ref=share">Over half of the coronavirus patients in intensive care in the Netherlands are UNDER 50 YEARS OLD</a> from      <a href="https://www.reddit.com/r/Coronavirus/">Coronavirus</a>    </blockquote>    <script async src="https://embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_bfc67938b4445916a20be9e072b3b8e8</wp:meta_key>
+			<wp:meta_value><![CDATA[1584540358]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_c2f5eb12609e2a30170ec2e1982af213</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Cuomo says 17% of coronavirus cases in New York have required hospitalizations, and people should consider what that will eventually mean for the total number of infections. &quot;Compare that to our hospital capacity and that will keep you up at night&quot; <a href="https://t.co/Pg0fqY2bj0">https://t.co/Pg0fqY2bj0</a> <a href="https://t.co/CFyD68xq3K">pic.twitter.com/CFyD68xq3K</a></p>&mdash; CBS News (@CBSNews) <a href="https://twitter.com/CBSNews/status/1239579684788207618?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_c2f5eb12609e2a30170ec2e1982af213</wp:meta_key>
+			<wp:meta_value><![CDATA[1584540358]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -1394,10 +1422,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>Screenshot_2020-03-16 GISAID - Next hCoV-19 App</title>
-		<link>https://alephdog209327384.wordpress.com/screenshot_2020-03-16-gisaid-next-hcov-19-app/</link>
+		<link>https://alephscoil.wordpress.com/screenshot_2020-03-16-gisaid-next-hcov-19-app/</link>
 		<pubDate>Mon, 16 Mar 2020 14:45:59 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/f02fb-screenshot_2020-03-16-gisaid-next-hcov-19-app.png</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/f02fb-screenshot_2020-03-16-gisaid-next-hcov-19-app.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Evolution of the novel coronavirus: https://www.gisaid.org/epiflu-applications/next-hcov-19-app/]]></excerpt:encoded>
@@ -1413,7 +1441,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/f02fb-screenshot_2020-03-16-gisaid-next-hcov-19-app.png</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/f02fb-screenshot_2020-03-16-gisaid-next-hcov-19-app.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
 			<wp:meta_value><![CDATA[8cfc3f616ec11dfc9c11ee028303e46ffe12b9a8]]></wp:meta_value>
@@ -1489,10 +1517,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>W_curve</title>
-		<link>https://alephdog209327384.wordpress.com/w_curve/</link>
+		<link>https://alephscoil.wordpress.com/w_curve/</link>
 		<pubDate>Mon, 16 Mar 2020 15:04:49 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/4cf24-w_curve.png</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/4cf24-w_curve.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[The "W-curve" which shows how relatively few old people died during the pandemic.]]></excerpt:encoded>
@@ -1508,7 +1536,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/4cf24-w_curve.png</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/4cf24-w_curve.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
 			<wp:meta_value><![CDATA[35a2e553062adddd815518c1a4430d877ce777c9]]></wp:meta_value>
@@ -1583,106 +1611,11 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Screenshot_2020-03-15 r Coronavirus</title>
-		<link>https://alephdog209327384.wordpress.com/screenshot_2020-03-15-r-coronavirus/</link>
-		<pubDate>Mon, 16 Mar 2020 15:09:09 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/0c258-screenshot_2020-03-15-r-coronavirus.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[An article reporting unusual coronavirus trends in younger populations.]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date>2020-03-16 15:09:09</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 15:09:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>screenshot_2020-03-15-r-coronavirus</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/0c258-screenshot_2020-03-15-r-coronavirus.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
-			<wp:meta_value><![CDATA[9c8c2409bc30c9ee408d382630643765ff20abc2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_remote_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-15-r-Coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:191;s:4:"file";s:47:"2020/03/Screenshot_2020-03-15-r-Coronavirus.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:46:"Screenshot_2020-03-15-r-Coronavirus-300x90.png";s:5:"width";i:300;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"Screenshot_2020-03-15-r-Coronavirus-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_import_session_id</wp:meta_key>
-			<wp:meta_value><![CDATA[5e6fe0b591e0c]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_import_original_post_id</wp:meta_key>
-			<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_original_import_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-15-r-Coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>original_post_id</wp:meta_key>
-			<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_retries</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_last_run_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1584390330]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_last_run_job_id</wp:meta_key>
-			<wp:meta_value><![CDATA[41864544538]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/0c258-screenshot_2020-03-15-r-coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:191;s:4:"file";s:118:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/0c258-screenshot_2020-03-15-r-coronavirus.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:54506;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_post_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_post_id</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-15-r-Coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>import_url_remap</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:102:"https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-15-r-Coronavirus.png";s:98:"http://alephdog209327384.files.wordpress.com/2020/03/0c258-screenshot_2020-03-15-r-coronavirus.png";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_success</wp:meta_key>
-			<wp:meta_value><![CDATA[1584390331]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>330px-1918_spanish_flu_waves</title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/07/covid-19-what-we-know-so-far/330px-1918_spanish_flu_waves/</link>
+		<link>https://alephscoil.wordpress.com/2020/03/07/covid-19-what-we-know-so-far/330px-1918_spanish_flu_waves/</link>
 		<pubDate>Mon, 16 Mar 2020 15:44:58 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/66ee6-330px-1918_spanish_flu_waves.gif</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/66ee6-330px-1918_spanish_flu_waves.gif</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Three "waves" of the 1918 flu.]]></excerpt:encoded>
@@ -1698,7 +1631,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/66ee6-330px-1918_spanish_flu_waves.gif</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/66ee6-330px-1918_spanish_flu_waves.gif</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
 			<wp:meta_value><![CDATA[b8ae1cda579bc958cac56b054a241f895289f2e6]]></wp:meta_value>
@@ -1770,10 +1703,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>chart_comparing_philly_and_st_louis</title>
-		<link>https://alephdog209327384.wordpress.com/chart_comparing_philly_and_st_louis/</link>
+		<link>https://alephscoil.wordpress.com/chart_comparing_philly_and_st_louis/</link>
 		<pubDate>Mon, 16 Mar 2020 15:49:54 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/3f76d-chart_comparing_philly_and_st_louis.jpg</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/3f76d-chart_comparing_philly_and_st_louis.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[St. Louis closed schools and cancelled parades, Philadelphia did not.]]></excerpt:encoded>
@@ -1789,7 +1722,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/3f76d-chart_comparing_philly_and_st_louis.jpg</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/3f76d-chart_comparing_philly_and_st_louis.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
 			<wp:meta_value><![CDATA[0eaf2b27dd5741f05095f0f26deb1463b42d12fc]]></wp:meta_value>
@@ -1857,10 +1790,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>Screenshot_2020-03-16 2002 03173 pdf</title>
-		<link>https://alephdog209327384.wordpress.com/screenshot_2020-03-16-2002-03173-pdf/</link>
+		<link>https://alephscoil.wordpress.com/screenshot_2020-03-16-2002-03173-pdf/</link>
 		<pubDate>Mon, 16 Mar 2020 16:01:52 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/f413a-screenshot_2020-03-16-2002-03173-pdf.png</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/f413a-screenshot_2020-03-16-2002-03173-pdf.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Animal reservoirs and transmission chains.]]></excerpt:encoded>
@@ -1876,7 +1809,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/f413a-screenshot_2020-03-16-2002-03173-pdf.png</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/f413a-screenshot_2020-03-16-2002-03173-pdf.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
 			<wp:meta_value><![CDATA[e406de8097e6a9905769bc2af3077c0deccca802]]></wp:meta_value>
@@ -1944,10 +1877,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>Screenshot_2020-03-16 r Coronavirus</title>
-		<link>https://alephdog209327384.wordpress.com/screenshot_2020-03-16-r-coronavirus/</link>
+		<link>https://alephscoil.wordpress.com/screenshot_2020-03-16-r-coronavirus/</link>
 		<pubDate>Mon, 16 Mar 2020 19:12:01 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Estimates range from 10-20% of cases being severe, and potentially requiring hospitalization.]]></excerpt:encoded>
@@ -1963,7 +1896,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
 			<wp:meta_value><![CDATA[7140077704e672a2d36716ced7f45704251c1145]]></wp:meta_value>
@@ -2031,10 +1964,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title></title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/19/</link>
+		<link>https://alephscoil.wordpress.com/2020/03/16/19/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/19/</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/19/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2090,10 +2023,69 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title></title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/21/</link>
+		<link>https://alephscoil.wordpress.com/2020/03/16/20/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/21/</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/20/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>20</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/21/</link>
+		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/21/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2148,70 +2140,11 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/22/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/22/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>22</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Facebook</title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/facebook/</link>
+		<link>https://alephscoil.wordpress.com/2020/03/16/facebook/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/facebook/</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2266,188 +2199,11 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Twitter</title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/twitter/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/twitter/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>twitter</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[24]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Instagram</title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/instagram/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/instagram/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>instagram</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[25]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://instagram.com]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Pinterest</title>
-		<link>https://alephdog209327384.wordpress.com/2020/03/16/pinterest/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/2020/03/16/pinterest/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>pinterest</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://pinterest.com]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Placeholder Image</title>
-		<link>https://alephdog209327384.wordpress.com/placeholder-image/</link>
+		<link>https://alephscoil.wordpress.com/placeholder-image/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/calm-1.jpg</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/calm-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2463,7 +2219,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/calm-1.jpg</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/calm-1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/calm-1.jpg]]></wp:meta_value>
@@ -2475,10 +2231,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>Placeholder Image</title>
-		<link>https://alephdog209327384.wordpress.com/placeholder-image-2/</link>
+		<link>https://alephscoil.wordpress.com/placeholder-image-2/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/mountaindawn-1.jpg</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/mountaindawn-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2494,7 +2250,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/mountaindawn-1.jpg</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/mountaindawn-1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/mountaindawn-1.jpg]]></wp:meta_value>
@@ -2506,10 +2262,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>Placeholder Image</title>
-		<link>https://alephdog209327384.wordpress.com/placeholder-image-3/</link>
+		<link>https://alephscoil.wordpress.com/placeholder-image-3/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/calm.jpg</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/calm.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2525,7 +2281,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/calm.jpg</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/calm.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/calm.jpg]]></wp:meta_value>
@@ -2537,10 +2293,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>Placeholder Image</title>
-		<link>https://alephdog209327384.wordpress.com/placeholder-image-4/</link>
+		<link>https://alephscoil.wordpress.com/placeholder-image-4/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/mountaindawn.jpg</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/mountaindawn.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2556,7 +2312,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/mountaindawn.jpg</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/mountaindawn.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/mountaindawn.jpg]]></wp:meta_value>
@@ -2568,10 +2324,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>https://alephdog209327384.wordpress.com/?page_id=69</link>
+		<link>https://alephscoil.wordpress.com/?page_id=69</link>
 		<pubDate></pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?page_id=69</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?page_id=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https:\/\/a8ctm1.files.wordpress.com\/2019\/08\/adventure-calm-clouds-1.jpg","id":648,"dimRatio":20,"align":"full"} -->
 <div class="wp-block-cover alignfull has-background-dim-20 has-background-dim" style="background-image:url('https://a8ctm1.files.wordpress.com/2019/08/adventure-calm-clouds-1.jpg');"><div class="wp-block-cover__inner-container"><!-- wp:heading {"align":"center","level":1} -->
@@ -2656,10 +2412,10 @@ https://twitter.com/CBSNews/status/1239579684788207618
 	</item>
 	<item>
 		<title>unnamed</title>
-		<link>https://alephdog209327384.wordpress.com/?attachment_id=71</link>
+		<link>https://alephscoil.wordpress.com/?attachment_id=71</link>
 		<pubDate>Mon, 16 Mar 2020 20:34:47 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/unnamed.jpg</guid>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/unnamed.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2675,7 +2431,7 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/unnamed.jpg</wp:attachment_url>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/unnamed.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/unnamed.jpg]]></wp:meta_value>
@@ -2686,42 +2442,11 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>cropped-unnamed</title>
-		<link>https://alephdog209327384.wordpress.com/?attachment_id=72</link>
-		<pubDate>Mon, 16 Mar 2020 20:34:59 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephdog209327384.files.wordpress.com/2020/03/cropped-unnamed.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>72</wp:post_id>
-		<wp:post_date>2020-03-16 20:34:59</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:34:59</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>cropped-unnamed</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>69</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephdog209327384.files.wordpress.com/2020/03/cropped-unnamed.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/cropped-unnamed.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:200;s:6:"height";i:200;s:4:"file";s:92:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/cropped-unnamed.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:70109;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
-		<link>https://alephdog209327384.wordpress.com/77-2__trashed/</link>
+		<link>https://alephscoil.wordpress.com/77-2__trashed/</link>
 		<pubDate>Mon, 16 Mar 2020 20:38:53 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog209327384.wordpress.com/?page_id=77</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?page_id=77</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"https:\/\/a8ctm1.files.wordpress.com\/2019\/08\/adventure-calm-clouds-1.jpg","id":648,"dimRatio":20,"align":"full"} -->
 <div class="wp-block-cover alignfull has-background-dim-20 has-background-dim" style="background-image:url('https://a8ctm1.files.wordpress.com/2019/08/adventure-calm-clouds-1.jpg');"><div class="wp-block-cover__inner-container"><!-- wp:heading {"align":"center","level":1} -->
@@ -2819,6 +2544,509 @@ https://twitter.com/CBSNews/status/1239579684788207618
 			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
 			<wp:meta_value><![CDATA[77-2]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>The New Common Cold is Here to Stay</title>
+		<link>https://alephscoil.wordpress.com/2020/03/18/the-new-common-cold-is-here-to-stay/</link>
+		<pubDate>Wed, 18 Mar 2020 14:17:38 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=107</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Economies around the world are spinning down: streets are emptying out, schools and shops are closing, and entire cities are being told to shelter in place. You can hear a pin drop in the subway station.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Up against a completely new foe, we're hoping to win the fight in only a few months. But we have no idea if a vaccine will work. We have no idea if it will disappear on its own, like the Spanish Flu of 1918. And we have no idea if it will evolve into something stronger.  It will likely stay and remain mild.  Even vaccinated diseases, such as Measles, are still flourishing, for example <a href="https://www.sciencemag.org/news/2019/02/measles-cases-have-tripled-europe-fueled-ukrainian-outbreak">in the Ukraine</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Governments are taking gradual, progressive restrictions to slow the spread without scaring or upsetting people too suddenly. But all these precautions come at a cost.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>China is trying hard to contain and eliminate the virus. Masks and temperature checks are often required in malls and city centers. Cities are under partial lock-down and selective about who they let in. High-risk areas are fenced off, and strict isolation rules are in place for travelers and close contacts of the infected. The contact tracing carried out by Chinese disease detectives is very aggressive and often invasive, sometimes determining nearby contacts and who should be tested based on phone GPS positioning.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All these measures have slowed the spread and may eventually eliminate the disease.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But try explaining this disruption to shop owners who have already had to lay off employees and close familiar doors. Explain it to the stock market investors who had a decade of wealth erased overnight, or to the 165 countries and territories around the world for whom this eerie silence is becoming the new normal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":188,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-17-beijing-traffic-report-tomtom-traffic-index-3.png?w=750" alt="" class="wp-image-188" /><figcaption>7-day traffic levels in Beijing (March 11 - 17) compared with dotted line 2019 averages.<br>Source: https://www.tomtom.com/en_gb/traffic-index/beijing-traffic</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>All of these control measures in China have come at a tremendous economic and social cost. Shops and factories are closed.  Based on traffic data above and case reports from within, many provinces in China are not going out on weekends or at lunch. People there are either being extra cautious, under government orders, or both.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/NAChristakis\/status\/1237020540549894144","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+https://twitter.com/NAChristakis/status/1237020540549894144
+</div><figcaption>As of March 2, several China provinces were still under partial lock-down.</figcaption></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>  We can get an idea what the second-level emergency looks like.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/www.youtube.com\/watch?v=YfsdJGj3-jM\u0026amp;feature=youtu.be","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=YfsdJGj3-jM&amp;feature=youtu.be
+</div><figcaption>A Japanese YouTuber from China shows what life is like in mid-March, 200 miles outside Wuhan.<br>Because he is not a Chinese citizen, he has trouble getting in certain zones. Other control measures are also evident.</figcaption></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Even the most recent analysis of the WHO and Imperial College London researchers claims we have a very difficult decision ahead of us: <strong>either shut society down or overwhelm the healthcare system</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>“We use the latest estimates of severity to show that policy strategies which aim to mitigate the epidemic might halve deaths and reduce peak healthcare demand by two-thirds, but that this will not be enough to prevent health systems being overwhelmed. More intensive, and socially disruptive interventions will therefore be required to suppress transmission to low levels. It is likely such measures – most notably, large scale social distancing – will need to be in place for <strong>many months, perhaps until a vaccine</strong> becomes available.”</p><cite>Source: <a href="https://www.imperial.ac.uk/news/196234/covid19-imperial-researchers-model-likely-impact/">https://www.imperial.ac.uk/news/196234/covid19-imperial-researchers-model-likely-impact/</a></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>States will spend the remainder of 2020 dividing themselves into the two camps.  Senior care facilities will be kept away from primary activities.  We need innovative approaches to contain the spread while allowing such activity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A time of great tragedy is unfolding before us, a time where the true spirit of our wonderful country needs to unite as one.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>107</wp:post_id>
+		<wp:post_date>2020-03-18 14:17:38</wp:post_date>
+		<wp:post_date_gmt>2020-03-18 14:17:38</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>the-new-common-cold-is-here-to-stay</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_cbaf8647ed1bb008e278fc2261ae6c55</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Currently, some provinces are adjusting their emergency level downwards according to their risk-level evaluations. As of March 2, 7 provinces adjusted to second-level, 9 provinces to third-level, 4 provinces to just the within-province emergency level. <a href="https://t.co/btRMypgaC9">https://t.co/btRMypgaC9</a> 17/</p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1237020540549894144?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_ab1018a5252e0688a806561549aefbe2</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">Currently, some provinces are adjusting their emergency level downwards according to their risk-level evaluations. As of March 2, 7 provinces adjusted to second-level, 9 provinces to third-level, 4 provinces to just the within-province emergency level. <a href="https://t.co/btRMypgaC9">https://t.co/btRMypgaC9</a> 17/</p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1237020540549894144?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_cbaf8647ed1bb008e278fc2261ae6c55</wp:meta_key>
+			<wp:meta_value><![CDATA[1584549271]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_ab1018a5252e0688a806561549aefbe2</wp:meta_key>
+			<wp:meta_value><![CDATA[1584540099]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_79617a683b52c62ed388ff067612219a</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Currently, some provinces are adjusting their emergency level downwards according to their risk-level evaluations. As of March 2, 7 provinces adjusted to second-level, 9 provinces to third-level, 4 provinces to just the within-province emergency level. <a href="https://t.co/btRMypgaC9">https://t.co/btRMypgaC9</a> 17/</p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1237020540549894144?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_42b376156c3a5f4bff72b6f25fd6ac75</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[41932871981]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1584541060]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_79617a683b52c62ed388ff067612219a</wp:meta_key>
+			<wp:meta_value><![CDATA[1584541061]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_39dc8ebc04a1bd704327a2890f9a1854</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-reddit">    <blockquote class="reddit-card" >      <a href="https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefactor_of_coronavirus_the/?ref_source=embed&amp;ref=share">There's an unlikely benefactor of coronavirus: The planet</a> from      <a href="https://www.reddit.com/r/Coronavirus/">Coronavirus</a>    </blockquote>    <script async src="https://embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_19ec8130b6d708df87479b8a79ee58f6</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_39dc8ebc04a1bd704327a2890f9a1854</wp:meta_key>
+			<wp:meta_value><![CDATA[1584564792]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_6265fbb77382f6bc8d53f3fe2e57e3c8</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Mishandling of the Kirkland Care Center</title>
+		<link>https://alephscoil.wordpress.com/?p=112</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=112</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date>2020-03-17 22:49:59</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>China-US Drama</title>
+		<link>https://alephscoil.wordpress.com/?p=117</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=117</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>We know, wait.. sorry, the scientists believe.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date>2020-03-18 01:53:17</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>The New Common Cold</title>
+		<link>https://alephscoil.wordpress.com/?p=120</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=120</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date>2020-03-18 01:58:50</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>Screenshot_2020-03-17 Beijing traffic report TomTom Traffic Index</title>
+		<link>https://alephscoil.wordpress.com/2020/03/18/the-new-common-cold-is-here-to-stay/screenshot_2020-03-17-beijing-traffic-report-tomtom-traffic-index/</link>
+		<pubDate>Wed, 18 Mar 2020 16:33:28 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-17-beijing-traffic-report-tomtom-traffic-index-3.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[7-day traffic levels in Beijing (March 11 - 17) compared with dotted line 2019 averages. 
+Source: https://www.tomtom.com/en_gb/traffic-index/beijing-traffic]]></excerpt:encoded>
+		<wp:post_id>188</wp:post_id>
+		<wp:post_date>2020-03-18 16:33:28</wp:post_date>
+		<wp:post_date_gmt>2020-03-18 16:33:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>screenshot_2020-03-17-beijing-traffic-report-tomtom-traffic-index</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>107</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-17-beijing-traffic-report-tomtom-traffic-index-3.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/screenshot_2020-03-17-beijing-traffic-report-tomtom-traffic-index-3.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:320;s:4:"file";s:144:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/screenshot_2020-03-17-beijing-traffic-report-tomtom-traffic-index-3.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:43538;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>The Meat-Eating Epidemic</title>
+		<link>https://alephscoil.wordpress.com/?p=193</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=193</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>I'm not a vegan, I don't follow any special dietary restrictions. But I apparently eat considerably less beef, pork and poultry than the statistically average American.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What exactly does the average American eat on an annual basis?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>109 lbs of chicken</li><li>57 lbs of beef</li><li>51 lbs of pork</li><li>17 lbs of turkey</li><li>16 lbs of seafood</li><li>1 lb of lamb</li><li>1 lb of veal</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Total: 252 lbs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This amounts to 11 ounces of animal product per day, nearly 3/4 of a pound. The rest of the post will be spent considering how you—and everyone else around—could be happier if this was reduced closer to within the range of 3-4 ounces daily.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Supplying Billions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We've known this was coming for years . The WHO recognises factory farming as the biggest threat of influenza pandemics . The first thing we need to do is abolish factory farming , safeguarding our antibiotics in the process</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>193</wp:post_id>
+		<wp:post_date>2020-03-19 21:15:37</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="nutrition"><![CDATA[Nutrition]]></category>
+		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+	</item>
+	<item>
+		<title>Proposals in Managing Plastic Waste</title>
+		<link>https://alephscoil.wordpress.com/?p=196</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=196</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>It was a sunny Spring day of 1907 in bustling downtown New York. All the sweats and labors of noonday genius came together into one great moment, which would never leave the world the same again. Men patted themselves on the back and left the office early, others—filled with enthusiasm—stayed the night. The first commercial plastic "Bakelite" was born, and dozens of commercial applications were immediately realized. Within a year mass produced—and with the invention of cellophane wrap soon to follow—there was no stopping the incredible plastic bandwagon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Fast-forward 110 years and plastic is just a part of "us". No aspect of life, no corner of Earth has escaped unscathed from its presence or reign. Plastic is part of our land, our seas, and—though great CO2 emissions—now our air too. In cities it is fast replacing dirt as the primary constituent of household dust. In the past decade, micro-plastics have been observed polluting the marine food chain and our bodies with it. Scientists don't believe this poses an immediate health risk, but it could certainly be a canary in the coal mine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Micro-Litter: The High Price of Cheap Clothes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most clothing and apparel today is made with at least 10% "polyester"—a plastic fiber which each time it is washed, sheds more and more micro-fibers into the wastewater, until it finally wears out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Work is being done to filter these out of the washing machine prior to discharge, but this is <em>not</em> a cure. The same polyester shirt sheds fibers in dryers, which expel the vented air into the outdoor environment. The same shirt sheds fibers just being worn about and moved around. It is a microscopic pollution factory, constantly shedding itself right on your chest. We are all guilty of <em>daily</em> littering on a micro-scale.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Disentwining any deeply ingrained social issue is never easy. The true solution likely involves a return to basics, of raising cotton production and lowering our reproductive rate so that we can afford to clothe people naturally, without cheap polyester alternatives. While it is nice to discuss these things, the sad truth is they may never become a reality in the current political climate. The use of cheap clothing is only expected to rise, especially as the rural African population balloons in the coming decades and governments there increasingly seek to provide a quality of life and level of convenience which rivals that seen in Europe or Australia.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Perhaps the polymers can be made more resilient to breakage—so shedding becomes minimal—and for mixed fabrics (cotton and polyester) recycling programs can be put in place to extract the synthetic fibers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Enough plastics are disposed of each year to encircle the Earth four times. Each year the oceans alone absorb three full garbage bags for every meter of shoreline. By 2050, there will be more plastic in the oceans than fish.  Yet we are complacent, we have no sense of urgency. No one questions it, no one blames us, no one feels deeply urgent. We drive past a landfill and the smell of it—though a thorn in our side—we ignore, so senselessly aloof.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>How many sea lions—tangled together amidst a mess of commercial fishing line—need die in obscurity, how many Albatross need to suffer with stomachs full of plastic pieces, how much more fertile land needs to be devoted to toxic landfill waste, and how many more shellfish will dissolve in acidic ocean conditions before society collectively takes a stand and reaches a tipping point? How much attention needs to be drawn to these decades-old issues before they're finally faced and the unsung heroes of these tragedies are finally acknowledged?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Greenhouse Emissions and Ocean Acidification</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The amount of CO2 released in annual plastic production dwarfs automobile and transportation-related emissions. Industrial and commercial CO2 releases—along with methane from herding cattle—account for the main two sources of global warming. In terms of ocean acidification (which could be a more imminent issue than global warming) methane is not a factor and industrial CO2 is the sole culprit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The single easiest solution for addressing both landfill waste and CO2 emissions associated with plastic use is to recycle. Recycling not only preserves landfill space, but also <a href="https://www.sciencedaily.com/releases/2019/04/190415144004.htm">reduces plastic's carbon footprint</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Safety Deposits and Disassembly of Goods: a Tangled mess</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A TV remote with odd buttons, a glittery, single-use birthday sign, spray on insulation, and carpet glued to fiberglass backing—all these things represent man-made products with a limited lifespan, e.g. they're disposable. They also boast a shameless array of plastic, rubber, and vinyl sub-components—all mishmashed and swirled together into a tangled, knotty, <em>non</em>-recyclable whole.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All of these components need to be accounted for. The entire mishmash should be easily taken apart—like pulling a slip knot out of a sewn rice bag, or pressing a quick release on a bicycle tire—we need things to come apart easily so each part can be accounted for, appropriately recycled, and redeemed. Currently plastic bottles are a great example of a failure here. The bottle itself is recyclable, but the cap and the cap's O-ring (as well as the plastic labeling) are generally considered byproducts to be disposed of or incinerated. Most "recyclable toothbrushes" only focus on the handle itself—which is composed of a homogenized plastic similar to yogurt cups.  Very few recycling programs are in place for the tiny nylon bristles. These efforts are not practical until specialized recycling and compositing facilities become more standardized and widely available. Note that the only toothbrush with biodegradable bristles <a href="https://gippslandunwrapped.com/2018/06/24/finally-a-toothbrush-with-plant-based-biodegradable-bristles/">lasts but a few uses</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Moving Forward</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is <em>not</em> a call to challenge for individuals to go plastic-free for a week. We know that's difficult, and we would like it to be easy. We should address the problem at the source. Cleaning plastic out of the Ocean is reactive, we need to be proactive. An ounce of prevention is better than a pound of cure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The measures needed to fix society's mismanagement of plastic are known to scientists, but it is up to governments to implement them—putting bioplastics in circulation where appropriate, regulating production, and incentivizing consumer recycling. All this should be a matter of subtle business decisions, but nothing is being done yet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sometimes our collective complacency is too great for any individual voice to make a difference. So it was with the coronavirus crisis. Critics knew an influenza or SARS outbreak was possible—and suspected it was only a matter of time—but no one could urge governments to prepare before the crisis was imminent and it was too late.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I submit to you that we are <em>not</em> stupid, that we make time for what <em>is</em> critically important to us. When this crisis is seen as important to us, we will act accordingly and with clear intention. In spite of all the fine talk nothing will happen til then.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>196</wp:post_id>
+		<wp:post_date>2020-03-19 20:34:08</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="environment"><![CDATA[Environment]]></category>
+		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+	</item>
+	<item>
+		<title>How the Planet Benefits from the Slowdown</title>
+		<link>https://alephscoil.wordpress.com/?p=199</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=199</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>https://www.storypick.com/water-and-air-quality-improve-in-italy/</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/reddit {"url":"https:\/\/www.reddit.com\/r\/Coronavirus\/comments\/fjymgd\/theres_an_unlikely_benefactor_of_coronavirus_the\/","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefactor_of_coronavirus_the/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>199</wp:post_id>
+		<wp:post_date>2020-03-18 21:09:20</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_c8e62cfc3ba807347df66aaeaf3e104c</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-reddit">    <blockquote class="reddit-card" >      <a href="https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefactor_of_coronavirus_the/?ref_source=embed&amp;ref=share">There's an unlikely benefactor of coronavirus: The planet</a> from      <a href="https://www.reddit.com/r/Coronavirus/">Coronavirus</a>    </blockquote>    <script async src="https://embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_c8e62cfc3ba807347df66aaeaf3e104c</wp:meta_key>
+			<wp:meta_value><![CDATA[1584564799]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_64c3c95257a6d34067586fb6efd4dcb6</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_39dc8ebc04a1bd704327a2890f9a1854</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-reddit">    <blockquote class="reddit-card" >      <a href="https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefactor_of_coronavirus_the/?ref_source=embed&amp;ref=share">There's an unlikely benefactor of coronavirus: The planet</a> from      <a href="https://www.reddit.com/r/Coronavirus/">Coronavirus</a>    </blockquote>    <script async src="https://embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_time_39dc8ebc04a1bd704327a2890f9a1854</wp:meta_key>
+			<wp:meta_value><![CDATA[1584590502]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_42b376156c3a5f4bff72b6f25fd6ac75</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>The Capitalism Crisis</title>
+		<link>https://alephscoil.wordpress.com/?p=203</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=203</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Capitalism has served us well</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Socialism was only attempted in agrarian Russia.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>203</wp:post_id>
+		<wp:post_date>2020-03-19 04:01:37</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>How a Viral Recombination Event Could F*ck Us All Over</title>
+		<link>https://alephscoil.wordpress.com/?p=455</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=455</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>455</wp:post_id>
+		<wp:post_date>2020-03-20 13:38:40</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 	</item>
 </channel>
 </rss>
