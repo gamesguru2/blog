@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2020-03-20 13:40"-->
+<!-- generator="WordPress.com" created="2020-04-07 15:19"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Modern Trends</title>
 	<link>https://alephscoil.wordpress.com</link>
 	<description></description>
-	<pubDate>Fri, 20 Mar 2020 13:40:54 +0000</pubDate>
+	<pubDate>Tue, 07 Apr 2020 15:19:39 +0000</pubDate>
 	<language></language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -53,77 +53,15 @@
 </wp:term>
 
 	<generator>http://wordpress.com/</generator>
+
 <image>
-		<url>http://s0.wp.com/i/buttonw-com.png</url>
-		<title>Modern Trends</title>
-		<link>https://alephscoil.wordpress.com</link>
-	</image>
-		
-	<item>
-		<title>Hello world!</title>
-		<link>https://alephscoil.wordpress.com/?p=1</link>
-		<pubDate>Sat, 07 Mar 2020 17:04:29 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephdog.heliohost.org/blog/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2020-03-07 17:04:29</wp:post_date>
-		<wp:post_date_gmt>2020-03-07 17:04:29</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world__trashed</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1584334830]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_import_session_id</wp:meta_key>
-			<wp:meta_value><![CDATA[5e6fe0b591e0c]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_import_original_post_id</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email>wapuu@wordpress.example</wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2020-03-07 17:04:29</wp:comment_date>
-			<wp:comment_date_gmt>2020-03-07 17:04:29</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
+	<url>https://alephscoil.files.wordpress.com/2020/03/cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png?w=32</url>
+	<title>Modern Trends</title>
+	<link>https://alephscoil.wordpress.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	
 	<item>
 		<title>Home</title>
 		<link>https://alephscoil.wordpress.com/blog__trashed/</link>
@@ -227,8 +165,8 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephscoil.wordpress.com/?page_id=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https:\/\/iamtakashinuxtest20200131105336.files.wordpress.com\/2020\/01\/qi-bin-w4hbafegiac-unsplash.jpg","id":26,"dimRatio":10,"align":"full"} -->
-<div class="wp-block-cover alignfull has-background-dim-10 has-background-dim" style="background-image:url('https://iamtakashinuxtest20200131105336.files.wordpress.com/2020/01/qi-bin-w4hbafegiac-unsplash.jpg');"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title\u2026","fontSize":"large"} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https:\/\/alephscoil.files.wordpress.com\/2020\/03\/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13.png","id":558,"dimRatio":10,"align":"full"} -->
+<div class="wp-block-cover alignfull has-background-dim-10 has-background-dim" style="background-image:url('https://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13.png');"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title\u2026","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size"></p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -483,92 +421,121 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Introduce Yourself (Example Post)</title>
-		<link>https://alephscoil.wordpress.com/?p=11</link>
-		<pubDate>Mon, 16 Mar 2020 20:19:06 +0000</pubDate>
+		<title></title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/19/</link>
+		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=11</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/19/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><em>This is an example post, originally published as part of </em><a href="https://dailypost.wordpress.com/blogging-university/"><em>Blogging University</em></a><em>. Enroll in one of our ten programs, and start your blog right.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the “New Post” button, and tell us why you’re here.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Why do this? </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Because it gives new readers context. What are you about? Why should they read your blog?</li><li>Because it will help you focus you own ideas about your blog and what you’d like to do with it. </li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>The post can be short or long, a personal intro to your life or a bloggy mission statement, a manifesto for the future or a simple outline of your the types of things you hope to publish.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To help you get started, here are a few questions: </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li>Why are you blogging publicly, rather than keeping a personal journal?</li><li>What topics do you think you’ll write about?</li><li>Who would you love to connect with via your blog?</li><li>If you blog successfully throughout the next year, what would you hope to have accomplished? </li></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>You’re not locked into any of this; one of the wonderful things about blogs is how they constantly evolve as we learn, grow, and interact with one another — but it’s good to know where and why you started, and articulating your goals may just give you a few other post ideas.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Can’t think how to get started? Just write the first thing that pops into your head. Anne Lamott, author of a book on writing we love, says that you need to give yourself permission to write a “crappy first draft”. Anne makes a great point — just start writing, and worry about editing it later.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>When you’re ready to publish, give your post three to five tags that describe your blog’s focus — writing, photography, fiction, parenting, food, cars, movies, sports, whatever. These tags will help others who care about your topics find you in the Reader. Make sure one of the tags is “zerotohero,” so other new bloggers can find you, too.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date>2020-03-16 20:19:06</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:19:06</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>example-post__trashed</wp:post_name>
-		<wp:status>trash</wp:status>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>19</wp:post_name>
+		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>sharing_disabled</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>switch_like_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;N;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_starter_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_publicize_pending</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1584390435]]></wp:meta_value>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[example-post]]></wp:meta_value>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/21/</link>
+		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/21/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>21</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -628,6 +595,65 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Facebook</title>
+		<link>https://alephscoil.wordpress.com/2020/03/16/facebook/</link>
+		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/facebook/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>facebook</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_pending</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1876,152 +1902,6 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Screenshot_2020-03-16 r Coronavirus</title>
-		<link>https://alephscoil.wordpress.com/screenshot_2020-03-16-r-coronavirus/</link>
-		<pubDate>Mon, 16 Mar 2020 19:12:01 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Estimates range from 10-20% of cases being severe, and potentially requiring hospitalization.]]></excerpt:encoded>
-		<wp:post_id>61</wp:post_id>
-		<wp:post_date>2020-03-16 19:12:01</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 19:12:01</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>screenshot_2020-03-16-r-coronavirus</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_hash</wp:meta_key>
-			<wp:meta_value><![CDATA[7140077704e672a2d36716ced7f45704251c1145]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_remote_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-r-Coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:350;s:6:"height";i:405;s:4:"file";s:47:"2020/03/Screenshot_2020-03-16-r-Coronavirus.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:47:"Screenshot_2020-03-16-r-Coronavirus-259x300.png";s:5:"width";i:259;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"Screenshot_2020-03-16-r-Coronavirus-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_import_session_id</wp:meta_key>
-			<wp:meta_value><![CDATA[5e6fe0b591e0c]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_import_original_post_id</wp:meta_key>
-			<wp:meta_value><![CDATA[61]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_original_import_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-r-Coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_retries</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_last_run_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1584390330]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_last_run_job_id</wp:meta_key>
-			<wp:meta_value><![CDATA[41864544614]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:350;s:6:"height";i:405;s:4:"file";s:118:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:121548;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_post_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_post_id</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>pre_import_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-r-Coronavirus.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>import_url_remap</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:102:"https://alephdog.heliohost.org/blog/wp-content/uploads/2020/03/Screenshot_2020-03-16-r-Coronavirus.png";s:98:"http://alephdog209327384.files.wordpress.com/2020/03/ca7d9-screenshot_2020-03-16-r-coronavirus.png";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_media_download_success</wp:meta_key>
-			<wp:meta_value><![CDATA[1584390332]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>https://alephscoil.wordpress.com/2020/03/16/19/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/19/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>19</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title></title>
 		<link>https://alephscoil.wordpress.com/2020/03/16/20/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
@@ -2081,124 +1961,6 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>https://alephscoil.wordpress.com/2020/03/16/21/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/21/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>21</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Facebook</title>
-		<link>https://alephscoil.wordpress.com/2020/03/16/facebook/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:13 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/2020/03/16/facebook/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:13</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:13</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>facebook</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_pending</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Placeholder Image</title>
 		<link>https://alephscoil.wordpress.com/placeholder-image/</link>
 		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
@@ -2227,99 +1989,6 @@ https://twitter.com/CBSNews/status/1239579684788207618
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:819;s:4:"file";s:83:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/calm-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:97578;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Placeholder Image</title>
-		<link>https://alephscoil.wordpress.com/placeholder-image-2/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/mountaindawn-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:14</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>placeholder-image-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/mountaindawn-1.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/mountaindawn-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:91:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/mountaindawn-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:19506;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Placeholder Image</title>
-		<link>https://alephscoil.wordpress.com/placeholder-image-3/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/calm.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:14</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>placeholder-image-3</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/calm.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/calm.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:819;s:4:"file";s:81:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/calm.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:97578;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Placeholder Image</title>
-		<link>https://alephscoil.wordpress.com/placeholder-image-4/</link>
-		<pubDate>Mon, 16 Mar 2020 20:24:14 +0000</pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/mountaindawn.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date>2020-03-16 20:24:14</wp:post_date>
-		<wp:post_date_gmt>2020-03-16 20:24:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>placeholder-image-4</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/mountaindawn.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/mountaindawn.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1067;s:4:"file";s:89:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/mountaindawn.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:19506;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2630,7 +2299,15 @@ https://www.youtube.com/watch?v=YfsdJGj3-jM&amp;feature=youtu.be
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_oembed_time_c3054f3c23873a587e85fd5a229492cd</wp:meta_key>
+			<wp:meta_value><![CDATA[1586260722]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_oembed_cbaf8647ed1bb008e278fc2261ae6c55</wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Currently, some provinces are adjusting their emergency level downwards according to their risk-level evaluations. As of March 2, 7 provinces adjusted to second-level, 9 provinces to third-level, 4 provinces to just the within-province emergency level. <a href="https://t.co/btRMypgaC9">https://t.co/btRMypgaC9</a> 17/</p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1237020540549894144?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_c3054f3c23873a587e85fd5a229492cd</wp:meta_key>
 			<wp:meta_value><![CDATA[<div class="embed-twitter"><blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Currently, some provinces are adjusting their emergency level downwards according to their risk-level evaluations. As of March 2, 7 provinces adjusted to second-level, 9 provinces to third-level, 4 provinces to just the within-province emergency level. <a href="https://t.co/btRMypgaC9">https://t.co/btRMypgaC9</a> 17/</p>&mdash; Nicholas A. Christakis (@NAChristakis) <a href="https://twitter.com/NAChristakis/status/1237020540549894144?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2639,7 +2316,7 @@ https://www.youtube.com/watch?v=YfsdJGj3-jM&amp;feature=youtu.be
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_time_cbaf8647ed1bb008e278fc2261ae6c55</wp:meta_key>
-			<wp:meta_value><![CDATA[1584549271]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1586260703]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_time_ab1018a5252e0688a806561549aefbe2</wp:meta_key>
@@ -2683,32 +2360,9 @@ https://www.youtube.com/watch?v=YfsdJGj3-jM&amp;feature=youtu.be
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Mishandling of the Kirkland Care Center</title>
-		<link>https://alephscoil.wordpress.com/?p=112</link>
-		<pubDate></pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=112</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>112</wp:post_id>
-		<wp:post_date>2020-03-17 22:49:59</wp:post_date>
-		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name></wp:post_name>
-		<wp:status>draft</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-	</item>
-	<item>
 		<title>China-US Drama</title>
 		<link>https://alephscoil.wordpress.com/?p=117</link>
-		<pubDate></pubDate>
+		<pubDate>Fri, 27 Mar 2020 23:31:29 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=117</guid>
 		<description></description>
@@ -2717,41 +2371,30 @@ https://www.youtube.com/watch?v=YfsdJGj3-jM&amp;feature=youtu.be
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>117</wp:post_id>
-		<wp:post_date>2020-03-18 01:53:17</wp:post_date>
-		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:post_date>2020-03-27 23:31:29</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:31:29</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name></wp:post_name>
-		<wp:status>draft</wp:status>
+		<wp:post_name>__trashed-2</wp:post_name>
+		<wp:status>trash</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>post</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-	</item>
-	<item>
-		<title>The New Common Cold</title>
-		<link>https://alephscoil.wordpress.com/?p=120</link>
-		<pubDate></pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=120</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date>2020-03-18 01:58:50</wp:post_date>
-		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name></wp:post_name>
-		<wp:status>draft</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1585351889]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Screenshot_2020-03-17 Beijing traffic report TomTom Traffic Index</title>
@@ -2786,13 +2429,29 @@ Source: https://www.tomtom.com/en_gb/traffic-index/beijing-traffic]]></excerpt:e
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>The Meat-Eating Epidemic</title>
+		<title>Gluttony of Meats in the Americas</title>
 		<link>https://alephscoil.wordpress.com/?p=193</link>
 		<pubDate></pubDate>
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=193</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2>Risk of Influenza Pandemics</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We've known this was coming for years . The WHO recognises factory farming as the biggest threat of influenza pandemics . The first thing we need to do is abolish factory farming , safeguarding our antibiotics in the process<br>In the US alone there were 60 million H1N1 swine flu infections between 2009 and 2010.  Globally it is estimated to have infected <a href="http://www.cidrap.umn.edu/news-perspective/2013/01/study-puts-global-2009-pandemic-h1n1-infection-rate-24">24% of the population</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The swine flu also resulted in 270,000 hospitalizations and 12,000 deaths in the US, which is significantly more </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Average Consumption</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
 <p>I'm not a vegan, I don't follow any special dietary restrictions. But I apparently eat considerably less beef, pork and poultry than the statistically average American.</p>
 <!-- /wp:paragraph -->
 
@@ -2817,11 +2476,11 @@ Source: https://www.tomtom.com/en_gb/traffic-index/beijing-traffic]]></excerpt:e
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>We've known this was coming for years . The WHO recognises factory farming as the biggest threat of influenza pandemics . The first thing we need to do is abolish factory farming , safeguarding our antibiotics in the process</p>
+<p></p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>193</wp:post_id>
-		<wp:post_date>2020-03-19 21:15:37</wp:post_date>
+		<wp:post_date>2020-03-22 07:53:09</wp:post_date>
 		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
@@ -2833,108 +2492,6 @@ Source: https://www.tomtom.com/en_gb/traffic-index/beijing-traffic]]></excerpt:e
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="nutrition"><![CDATA[Nutrition]]></category>
-		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
-	</item>
-	<item>
-		<title>Proposals in Managing Plastic Waste</title>
-		<link>https://alephscoil.wordpress.com/?p=196</link>
-		<pubDate></pubDate>
-		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=196</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>It was a sunny Spring day of 1907 in bustling downtown New York. All the sweats and labors of noonday genius came together into one great moment, which would never leave the world the same again. Men patted themselves on the back and left the office early, others—filled with enthusiasm—stayed the night. The first commercial plastic "Bakelite" was born, and dozens of commercial applications were immediately realized. Within a year mass produced—and with the invention of cellophane wrap soon to follow—there was no stopping the incredible plastic bandwagon.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Fast-forward 110 years and plastic is just a part of "us". No aspect of life, no corner of Earth has escaped unscathed from its presence or reign. Plastic is part of our land, our seas, and—though great CO2 emissions—now our air too. In cities it is fast replacing dirt as the primary constituent of household dust. In the past decade, micro-plastics have been observed polluting the marine food chain and our bodies with it. Scientists don't believe this poses an immediate health risk, but it could certainly be a canary in the coal mine.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Micro-Litter: The High Price of Cheap Clothes</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Most clothing and apparel today is made with at least 10% "polyester"—a plastic fiber which each time it is washed, sheds more and more micro-fibers into the wastewater, until it finally wears out.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Work is being done to filter these out of the washing machine prior to discharge, but this is <em>not</em> a cure. The same polyester shirt sheds fibers in dryers, which expel the vented air into the outdoor environment. The same shirt sheds fibers just being worn about and moved around. It is a microscopic pollution factory, constantly shedding itself right on your chest. We are all guilty of <em>daily</em> littering on a micro-scale.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Disentwining any deeply ingrained social issue is never easy. The true solution likely involves a return to basics, of raising cotton production and lowering our reproductive rate so that we can afford to clothe people naturally, without cheap polyester alternatives. While it is nice to discuss these things, the sad truth is they may never become a reality in the current political climate. The use of cheap clothing is only expected to rise, especially as the rural African population balloons in the coming decades and governments there increasingly seek to provide a quality of life and level of convenience which rivals that seen in Europe or Australia.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Perhaps the polymers can be made more resilient to breakage—so shedding becomes minimal—and for mixed fabrics (cotton and polyester) recycling programs can be put in place to extract the synthetic fibers.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Enough plastics are disposed of each year to encircle the Earth four times. Each year the oceans alone absorb three full garbage bags for every meter of shoreline. By 2050, there will be more plastic in the oceans than fish.  Yet we are complacent, we have no sense of urgency. No one questions it, no one blames us, no one feels deeply urgent. We drive past a landfill and the smell of it—though a thorn in our side—we ignore, so senselessly aloof.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>How many sea lions—tangled together amidst a mess of commercial fishing line—need die in obscurity, how many Albatross need to suffer with stomachs full of plastic pieces, how much more fertile land needs to be devoted to toxic landfill waste, and how many more shellfish will dissolve in acidic ocean conditions before society collectively takes a stand and reaches a tipping point? How much attention needs to be drawn to these decades-old issues before they're finally faced and the unsung heroes of these tragedies are finally acknowledged?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Greenhouse Emissions and Ocean Acidification</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The amount of CO2 released in annual plastic production dwarfs automobile and transportation-related emissions. Industrial and commercial CO2 releases—along with methane from herding cattle—account for the main two sources of global warming. In terms of ocean acidification (which could be a more imminent issue than global warming) methane is not a factor and industrial CO2 is the sole culprit.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The single easiest solution for addressing both landfill waste and CO2 emissions associated with plastic use is to recycle. Recycling not only preserves landfill space, but also <a href="https://www.sciencedaily.com/releases/2019/04/190415144004.htm">reduces plastic's carbon footprint</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Safety Deposits and Disassembly of Goods: a Tangled mess</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>A TV remote with odd buttons, a glittery, single-use birthday sign, spray on insulation, and carpet glued to fiberglass backing—all these things represent man-made products with a limited lifespan, e.g. they're disposable. They also boast a shameless array of plastic, rubber, and vinyl sub-components—all mishmashed and swirled together into a tangled, knotty, <em>non</em>-recyclable whole.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>All of these components need to be accounted for. The entire mishmash should be easily taken apart—like pulling a slip knot out of a sewn rice bag, or pressing a quick release on a bicycle tire—we need things to come apart easily so each part can be accounted for, appropriately recycled, and redeemed. Currently plastic bottles are a great example of a failure here. The bottle itself is recyclable, but the cap and the cap's O-ring (as well as the plastic labeling) are generally considered byproducts to be disposed of or incinerated. Most "recyclable toothbrushes" only focus on the handle itself—which is composed of a homogenized plastic similar to yogurt cups.  Very few recycling programs are in place for the tiny nylon bristles. These efforts are not practical until specialized recycling and compositing facilities become more standardized and widely available. Note that the only toothbrush with biodegradable bristles <a href="https://gippslandunwrapped.com/2018/06/24/finally-a-toothbrush-with-plant-based-biodegradable-bristles/">lasts but a few uses</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Moving Forward</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>This is <em>not</em> a call to challenge for individuals to go plastic-free for a week. We know that's difficult, and we would like it to be easy. We should address the problem at the source. Cleaning plastic out of the Ocean is reactive, we need to be proactive. An ounce of prevention is better than a pound of cure.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The measures needed to fix society's mismanagement of plastic are known to scientists, but it is up to governments to implement them—putting bioplastics in circulation where appropriate, regulating production, and incentivizing consumer recycling. All this should be a matter of subtle business decisions, but nothing is being done yet.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Sometimes our collective complacency is too great for any individual voice to make a difference. So it was with the coronavirus crisis. Critics knew an influenza or SARS outbreak was possible—and suspected it was only a matter of time—but no one could urge governments to prepare before the crisis was imminent and it was too late.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I submit to you that we are <em>not</em> stupid, that we make time for what <em>is</em> critically important to us. When this crisis is seen as important to us, we will act accordingly and with clear intention. In spite of all the fine talk nothing will happen til then.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>196</wp:post_id>
-		<wp:post_date>2020-03-19 20:34:08</wp:post_date>
-		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name></wp:post_name>
-		<wp:status>draft</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="environment"><![CDATA[Environment]]></category>
 		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
 	</item>
 	<item>
@@ -2955,11 +2512,11 @@ https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefact
 <!-- /wp:core-embed/reddit -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>haircut from my neighbor, just one of the ways the crisis is encouraging me to live simply and nobly (humbly).</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>199</wp:post_id>
-		<wp:post_date>2020-03-18 21:09:20</wp:post_date>
+		<wp:post_date>2020-03-27 23:31:02</wp:post_date>
 		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
@@ -2999,7 +2556,7 @@ https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefact
 	<item>
 		<title>The Capitalism Crisis</title>
 		<link>https://alephscoil.wordpress.com/?p=203</link>
-		<pubDate></pubDate>
+		<pubDate>Fri, 27 Mar 2020 23:31:32 +0000</pubDate>
 		<dc:creator>nhldatascience</dc:creator>
 		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=203</guid>
 		<description></description>
@@ -3012,7 +2569,77 @@ https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefact
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>203</wp:post_id>
-		<wp:post_date>2020-03-19 04:01:37</wp:post_date>
+		<wp:post_date>2020-03-27 23:31:32</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:31:32</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>__trashed-3</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1585351892]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>How a Viral Recombination Event Could F*ck Us All Over</title>
+		<link>https://alephscoil.wordpress.com/?p=455</link>
+		<pubDate>Fri, 27 Mar 2020 23:31:25 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=455</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>455</wp:post_id>
+		<wp:post_date>2020-03-27 23:31:25</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:31:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>__trashed</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1585351885]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>All about Water</title>
+		<link>https://alephscoil.wordpress.com/?p=486</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=486</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>486</wp:post_id>
+		<wp:post_date>2020-03-21 21:48:18</wp:post_date>
 		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
@@ -3026,16 +2653,581 @@ https://www.reddit.com/r/Coronavirus/comments/fjymgd/theres_an_unlikely_benefact
 		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 	</item>
 	<item>
-		<title>How a Viral Recombination Event Could F*ck Us All Over</title>
-		<link>https://alephscoil.wordpress.com/?p=455</link>
+		<title>Coronavirus Conspiracy Theories</title>
+		<link>https://alephscoil.wordpress.com/?p=491</link>
+		<pubDate>Fri, 27 Mar 2020 23:31:38 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=491</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>US planted it</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>US is purposefully, not accidentally out of ignorance, prioritizing the economy of the American public</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>491</wp:post_id>
+		<wp:post_date>2020-03-27 23:31:38</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:31:38</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>__trashed-4</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1585351898]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Border Closures and Viral Recombination Events</title>
+		<link>https://alephscoil.wordpress.com/?p=494</link>
+		<pubDate>Fri, 27 Mar 2020 23:31:45 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=494</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Recombinant virus.  Antigenic drift</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>494</wp:post_id>
+		<wp:post_date>2020-03-27 23:31:45</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:31:45</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>__trashed-5</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1585351905]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>The Anarchist Manifesto for Children</title>
+		<link>https://alephscoil.wordpress.com/?p=511</link>
 		<pubDate></pubDate>
 		<dc:creator>nhldatascience</dc:creator>
-		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=455</guid>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=511</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>in the extreme case he lacks even a name, or any federalized identifier. nothing is tied to his name. he is free to leave his community and join another, but in doing so he implicitly gives himself a new, unknown identity.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>511</wp:post_id>
+		<wp:post_date>2020-03-26 02:57:09</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>Rollo&#039;s Anarchy</title>
+		<link>https://alephscoil.wordpress.com/?p=515</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=515</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Never call a woman a whore.  Even if you will never see her again, you desensitize her mind to the idea of sex and make life harder on your fellow man, which in turn makes it harder on you.  Enough taxes have already been paid into that honey pot</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Invariant property.  Consensus algorithm. Zeitgeist property/consensus.<br>Dominant vs. Recessive philosophy<br>Proactive vs. Reactive philosophy</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You have a few choices:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Move to an area where the zeitgeist consensus aligns with your own,</li><li>Dutifully paddle upstream,</li><li>Subsume the dominant culture around you.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Properties</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It has this property that everything around it is also doing the same</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The pareto principle is introduced in the context of serfdom in Feudal England.  The argument is made, out of experience, out of purely personal intuition, that the same applies to female desire.  Besides, women are primarily emotive creatures; I have never gotten them to appreciate great chess games or works of political philosophy.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>515</wp:post_id>
+		<wp:post_date>2020-03-27 09:33:23</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13</title>
+		<link>https://alephscoil.wordpress.com/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13/</link>
+		<pubDate>Fri, 27 Mar 2020 23:55:23 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>455</wp:post_id>
-		<wp:post_date>2020-03-20 13:38:40</wp:post_date>
+		<wp:post_id>558</wp:post_id>
+		<wp:post_date>2020-03-27 23:55:23</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:55:23</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:660;s:6:"height";i:470;s:4:"file";s:140:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups13.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:29907;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Screenshot_2020-03-27 Logo Maker Used By 2 3 Million Startups(5) (copy)</title>
+		<link>https://alephscoil.wordpress.com/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy/</link>
+		<pubDate>Fri, 27 Mar 2020 23:57:13 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">http://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>560</wp:post_id>
+		<wp:post_date>2020-03-27 23:57:13</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:57:13</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:146:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:99892;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png</title>
+		<link>https://alephscoil.wordpress.com/cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1-png/</link>
+		<pubDate>Fri, 27 Mar 2020 23:57:16 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.files.wordpress.com/2020/03/cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://alephscoil.files.wordpress.com/2020/03/cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>561</wp:post_id>
+		<wp:post_date>2020-03-27 23:57:16</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:57:16</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1-png</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://alephscoil.files.wordpress.com/2020/03/cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:154:"/home/wpcom/public_html/wp-content/blogs.dir/6c0/174296119/files/2020/03/cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1.png";s:5:"sizes";a:4:{s:13:"site_icon-270";a:4:{s:4:"file";s:89:"cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:89:"cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:89:"cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:87:"cropped-screenshot_2020-03-27-logo-maker-used-by-2-3-million-startups5-copy-1-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:88082;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Mishandling of the Kirkland Care Center</title>
+		<link>https://alephscoil.wordpress.com/?p=112</link>
+		<pubDate>Fri, 27 Mar 2020 23:59:25 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=112</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date>2020-03-27 23:59:25</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:59:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>__trashed-6</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1585353565]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>A Prelude to Future Plastic Waste Policies</title>
+		<link>https://alephscoil.wordpress.com/?p=196</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=196</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Plastic is part of our land, our seas, and—through emissions—now our air too. No aspect of life, no corner of Earth has escaped unscathed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Enough plastics are disposed of each year to encircle the Earth four times. Each year the oceans alone absorb three full trash bags for every meter of shoreline. By 2050, there will be more plastic in the oceans than fish. In cities it is fast replacing soil and pollen as the primary constituent of household dust. In the past decade, micro-plastics have also been observed polluting the marine food chain. Scientists don't believe this poses us an immediate health risk, but it could certainly be a canary in the coal mine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yet we are complacent, we have no sense of urgency. We go about our daily lives, shamelessly ignoring any warning signs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>How many sea lions—tangled together amidst a mess of commercial fishing line—must gasp away in obscurity, how many Albatross will starve with stomachs full of plastic, how much more fertile land needs to be designated a toxic waste site, how many more candy-bar wrappers tossed carelessly to the wind, and how many more shellfish dissolved in acidic ocean conditions before society takes a collective stand and reaches a tipping point? How much attention needs to be drawn to these decades-old issues before they're finally faced and the unsung heroes of these tragedies are finally paid tribute?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Individuals can try to go plastic-free, but it is nearly impossible today. They may succeed themselves, only to fail at influencing the culture at large.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We have a World Health Organization. What we really need now is a World Environment Organization. We need a central authority like that.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And we need to change our culture from within.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We should address the problem, proactively, at the source. Cleaning plastic out of the Ocean is reactive, and so is waiting til we run out of landfill space.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Micro-Litter: The High Price of Cheap Clothes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most apparel today is made with at least 10% "polyester" (a plastic fiber). Each time a piece of clothing is washed, it sheds more and more micro-fibers into the wastewater, until it finally wears out completely. Work is being done to filter these out of the washing machine prior to discharge, but this is <em>not</em> a cure. It is reactive and inadequate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The same polyester shirt sheds fibers in dryers, which expel the vented air to the outdoor environment, allowing it to find its way to rivers and streams. The same shirt also sheds fibers just being worn about and moved around. It is a microscopic pollution factory, silently shedding itself on your shoulders as you walk. We are all guilty of <em>daily</em> littering on a micro-scale. No single party is responsible and no individual is free from blame in this giant, cosmic crime.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Disentwining any deeply ingrained social issue is never easy. The true solution likely involves a return to basics, of raising cotton production and lowering our reproductive rate so that we can afford to clothe people naturally, without cheap polyester alternatives. Perhaps the polymers can be made more resilient to breakage—so shedding from clothes becomes minimal (cotton outlasts wool for the simple reason its fibers can bend more times before breaking). And for recycling mixed fabrics (cotton and polyester), recovery programs can be put in place to extract the synthetic fibers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While it is nice to discuss these things, the sad truth is they may never become a reality in the current political climate. The use of cheap clothing is only expected to rise, especially as the urban populations in Africa and South America explode in the coming decades.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Regardless of the approach decided upon, it seems inescapable that cheap, synthetic clothes should only be produced when desperately needed (e.g. medical gowns during a pandemic). Measures must be taken to reverse this complacency in everyday life. Polyester production is not sustainable like this.  The oceans are a sanctuary, not a dumping grounds. Landfill space is a commodity—it should be reserved for a rainy day, not allotted without future regard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Global Warming and Ocean Acidification</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Despite popular belief, the amount of CO2 released in annual plastic production dwarfs automobile and transportation-related emissions. Industrial and commercial CO2 releases—along with methane from herding cattle—account for the main two sources of global warming. Automobiles and planes are far down on the list. In terms of ocean acidification (which could be an equally imminent issue) methane is not a factor, and industrial CO2 is the main culprit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The single easiest solution for addressing both landfill waste and CO2 emissions associated with plastic use (besides eliminating plastic altogether) is to recycle. Recycling not only preserves landfill space, but also <a href="https://www.sciencedaily.com/releases/2019/04/190415144004.htm">reduces plastic's carbon footprint</a>. Even if it were more expensive, I am still unsure why it is not being done. We act like pollution doesn't exist and oil is a renewable resource. Human life has other priorities than economic activity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Safety Deposits and Disassembly of Goods: a Tangled mess</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A TV remote with rubber buttons, a glittery, single-use birthday sign, spray on insulation, a soda can lined with plastic, carpet glued to fiberglass backing, and a substrate-backed pipette tray—all these things represent man-made products with a limited lifespan, e.g. they're disposable (and often even single-use). They also boast a shameless array of sub-components—of plastic, rubber, and vinyl pieces—all mishmashed and swirled together into a tangled, <em>non</em>-recyclable, final product.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All of these components need to be accounted for. Proper plastic recycling is a very fickle process that requires careful separation of types. The entire mishmash should be easily taken apart—like pulling a slip knot out of a sewn rice bag, or pressing a quick release on a bicycle tire. Products should come apart easily so each part can be recovered, identified, redeemed and recycled. Unfortunately, very few products in daily life meet these "ease-of-disassembly" criteria.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are many difficulties surrounding <a href="https://www.ifixit.com/News/15794/apple-daisy-cobalt-recycling">standardized attempts to recycle cell phones</a>. Recycling phones is challenging because of the diversity and sheer volume of cell phone models, as well as the complex componentry inside. E-waste often ends up crushed or disassembled, with plastic burned off and only metal being reclaimed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote {"className":"is-style-default"} -->
+<blockquote class="wp-block-quote is-style-default"><p>When other electronics like laptops, printers and monitors are recycled, they don't go through a Daisy. They're put in a <a rel="noreferrer noopener" href="https://youtu.be/erQZz9yBegI" target="_blank">shredder</a> or a hammerlike pounder that breaks apart the devices in an effort to expose the elements inside. This process often mixes materials together, making them impure and less valuable. Still, a series of sifters and magnets <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=EDVCldfYJ8k" target="_blank">attempt to collect</a> the recyclable materials before the rest is thrown out.</p><cite>"Apple is opening up its world of iPhone recycling."  <em>CNET</em>.  <a href="https://www.cnet.com/profiles/iansherr/">Ian Sherr</a> <a rel="noreferrer noopener" href="http://www.twitter.com/iansherr" target="_blank"></a><br>March 25, 2020.  <a href="https://www.cnet.com/news/apple-might-delay-next-big-iphone-launch-due-to-coronavirus-report-says/">https://www.cnet.com/news/apple-might-delay-next-big-iphone-launch-due-to-coronavirus-report-says/</a></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Plastic bottles are another great example of a failure here. The bottle itself is recyclable, but the cap and the cap's O-ring (as well as the plastic labeling) are generally considered byproducts to be disposed of or incinerated. The cap would qualify as a mishmash: a hard exterior and a soft sealant coating inside. The O-ring and label are also not easily removed, nor marked with a plastic type or recycling number.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Bottle caps are often so small that it’s easy to overlook the impact they have on the environment. If you drop one on the ground at the park or the beach, you may think it’s not a big deal.<br><br>But the Beach Environmental Awareness Campaign Hawaii (B.E.A.C.H.) found that “plastic bottle caps are one of the top 10 items found during marine debris beach clean-ups and are the second most littered item after cigarette butts.”<br><br>Recycling seems like a good option, but did you know that many cities don’t accept caps for recycling?</p><cite>"Bottle Caps and the Environment" <em>Weill Cornell University</em>.  <a href="https://sustainability.weill.cornell.edu/recycling/bottle-caps-and-environment">https://sustainability.weill.cornell.edu/recycling/bottle-caps-and-environment</a></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Most "recyclable toothbrushes" only focus on the handle itself—which is composed of a homogenized plastic similar to yogurt cups. Very few recycling programs are in place for the tiny nylon bristles. (Note that the only toothbrush with biodegradable bristles <a href="https://gippslandunwrapped.com/2018/06/24/finally-a-toothbrush-with-plant-based-biodegradable-bristles/">lasts but a few uses</a>.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>These efforts are not practical until specialized recycling and compositing facilities become more standardized and widely available.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Moving Forward</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The measures needed to fix society's mismanagement of plastic waste are known to scientists, but it is up to governments to implement them—putting bio-plastics in circulation where appropriate, regulating production, and incentivizing consumer recycling. All this should be a matter of subtle political maneuvering, but nothing is being done currently.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sometimes our collective complacency is too great for any individual voice to make a difference, until the crisis is imminent. So it was with coronavirus. Critics knew an influenza or SARS-like outbreak was possible—indeed they suspected it was only a matter of time—but no one could urge governments to take the necessary preparations. On the contrary, most countries continued cutting funding to disease programs as the memory of the 1918 pandemic grew more distant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The current livelihood of the world economy depends on the wasteful expenditure of natural capital. Little attention is paid to sustainability (or the actual, basic needs of men), and little respect is paid to Earth. The priority is always getting more money and more power at whatever expense. We must find ways of balancing the capitalist incentives to innovate and produce against the necessary virtues of self-preservation and respect for the planet.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>196</wp:post_id>
+		<wp:post_date>2020-04-07 15:18:20</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="environment"><![CDATA[Environment]]></category>
+		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+	</item>
+	<item>
+		<title>&#034;Fumbling&#034; the Coronavirus Response in the US</title>
+		<link>https://alephscoil.wordpress.com/?p=497</link>
+		<pubDate>Fri, 27 Mar 2020 23:59:28 +0000</pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=497</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2>Sudden Shock vs. Mitigation Fatigue</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>and voluntary quarantine<br>Slow transition vs get it all over with</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>497</wp:post_id>
+		<wp:post_date>2020-03-27 23:59:28</wp:post_date>
+		<wp:post_date_gmt>2020-03-27 23:59:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>__trashed-7</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1585353568]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Three Perspectives on Personal Property and Private Capital</title>
+		<link>https://alephscoil.wordpress.com/?p=565</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=565</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Capitalism, as it stands today, is largely attributed to John Locke, although the ideas can be traced back to Hobbes in the early 1600s. The movement itself and the forces behind it arguable began with the <a href="https://en.wikipedia.org/wiki/History_of_capitalism#The_'crisis_of_the_fourteenth_century'">14th century crisis</a>. Since the 1700s capitalism has existed in nearly all parts of the world at all times.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here the difference may be subtle, the outlooks may differ while the effect remains the same. But language matters. <s>If you plainly insult someone, you will be met with hostility or avoidance. Whereas if you compliment one aspect and politely criticize another, they'll still probably be pissed off but at least they will still look at you professionally.</s></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>565</wp:post_id>
+		<wp:post_date>2020-04-07 01:00:33</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>Insect Eating and Human Evolution</title>
+		<link>https://alephscoil.wordpress.com/?p=566</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=566</guid>
+		<description></description>
+		<content:encoded><![CDATA[Today we scoff at the idea of it.  We pollute and consume way too much.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>566</wp:post_id>
+		<wp:post_date>2020-04-03 16:38:08</wp:post_date>
+		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name></wp:post_name>
+		<wp:status>draft</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+	</item>
+	<item>
+		<title>Lockdown will Continue, No one&#039;s Fault</title>
+		<link>https://alephscoil.wordpress.com/?p=576</link>
+		<pubDate></pubDate>
+		<dc:creator>nhldatascience</dc:creator>
+		<guid isPermaLink="false">https://alephscoil.wordpress.com/?p=576</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2>"Everyone" Should Stay Home</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I hear a lot of people blaming others for even meeting a friend or two, as if that is the reason lock-down is being extended. It really has more to do with hospital capacity and lack of proper mitigation or vaccination efforts. We have stopped mass gatherings and are slowing the spread (perhaps not enough). We are up to authorities to decide on future restrictions or relaxations. Some ineffective measures are in place, while other effective ones are missing. For example banks are operating from the drive-thru only with no proof this lowers infection rates, while large groups are still allowed in the grocery stores without masks or temperature checks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We could do a lot of amazing things if 100% of everyone cooperated for two weeks. We could perhaps eliminate the common cold. But, governments aren't going for this. They know it's not a perfect system, and people will die. They just want to keep their numbers down, and have hospital space for everyone who needs it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Even if we could cooperate for two weeks, some of us have essential care-giving duties, or grocery shopping to fulfill that it make it unreasonable for everyone to reduce social isolation levels to zero for in excess of two weeks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Smallpox remains the only human disease eliminated, and it was done through a <em>combined</em> vaccination and case isolation effort led by the WHO starting in the late 1960s. No highly infectious disease has ever been eliminated by a widespread social distancing effort alone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Herd Immunity and The Vaccine</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This puts governments in an ugly dilemma: either shut down the economy and wait for a vaccine, or put people back to work and watch as hospitals are overwhelmed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most nations are leaning toward the first option, and </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://rocs.hu-berlin.de/D3/herd/">Dynamic simulations</a> show that for the world to achieve elimination of a disease with an even modest reproductive number, R0, the vaccination rate would have to be at least in the range of 65%-90%.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The process would take multiple years and millions would die, but the end result would be: us adding another disease to our childhood vaccine repertoire and achieving effective remission against another sometimes fatal infectious diseases such as smallpox, measles, or .</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>576</wp:post_id>
+		<wp:post_date>2020-04-07 11:07:49</wp:post_date>
 		<wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
